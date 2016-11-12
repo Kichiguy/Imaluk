@@ -1,0 +1,1044 @@
+﻿Log file open, 11/10/16 18:26:49
+LogInit:Display: Running engine for game: Imaluk
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(8966061) SRandInit(8966061).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.119829
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.11-00.26.49:718][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.11-00.26.49:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.11-00.26.49:766][  0]LogInit: Computer: CECIL
+[2016.11.11-00.26.49:766][  0]LogInit: User: User
+[2016.11.11-00.26.49:766][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.11-00.26.49:766][  0]LogInit: High frequency timer resolution =3.320893 MHz
+[2016.11.11-00.26.49:766][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2016.11.11-00.26.49:766][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.11-00.26.49:766][  0]LogMemory: Process Physical Memory: 256.25 MB used, 256.25 MB peak
+[2016.11.11-00.26.49:766][  0]LogMemory: Process Virtual Memory: 259.98 MB used, 259.98 MB peak
+[2016.11.11-00.26.49:766][  0]LogMemory: Physical Memory: 3691.01 MB used, 12259.03 MB total
+[2016.11.11-00.26.49:766][  0]LogMemory: Virtual Memory: 621.73 MB used, 134217728.00 MB total
+[2016.11.11-00.26.50:031][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.11-00.26.52:445][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.11-00.26.52:479][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2016.11.11-00.26.52:479][  0]LogD3D11RHI:       2016/0/6129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.11.11-00.26.52:481][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.11-00.26.52:481][  0]LogD3D11RHI:       0/0/6129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.11-00.26.52:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.11-00.26.52:488][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.11-00.26.52:488][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.11-00.26.52:488][  0]LogWindows: EnumDisplayDevices:
+[2016.11.11-00.26.52:488][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2016.11.11-00.26.52:489][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2016.11.11-00.26.52:489][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2016.11.11-00.26.52:489][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2016.11.11-00.26.52:490][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.11.11-00.26.52:490][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2016.11.11-00.26.52:490][  0]LogD3D11RHI:   Driver Version: 372.90 (internal:21.21.13.7290, unified:372.90)
+[2016.11.11-00.26.52:490][  0]LogD3D11RHI:      Driver Date: 9-16-2016
+[2016.11.11-00.26.52:490][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.11-00.26.52:510][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.11-00.26.52:523][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.11-00.26.52:524][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (F:/Unreal Projects/Imaluk/Intermediate/Shaders/WorkingDirectory/2808/).
+[2016.11.11-00.26.52:524][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/B93A0E0544B387536D48AE83A5C96C59/'.
+[2016.11.11-00.26.52:524][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.11-00.26.55:434][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.11-00.26.55:448][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.11-00.26.55:460][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.11-00.26.55:473][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.11-00.26.55:485][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.11-00.26.55:498][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.11-00.26.55:508][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.11-00.26.55:518][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.11-00.26.55:527][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.11-00.26.55:536][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.11-00.26.55:545][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.11-00.26.55:565][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.11-00.26.55:565][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.11-00.26.55:566][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.11-00.26.55:623][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.11-00.26.55:633][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.11-00.26.55:643][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.11-00.26.55:652][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.11-00.26.55:661][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.11-00.26.55:674][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.11-00.26.55:674][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.11-00.26.56:099][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.11-00.26.56:247][  0]LogDerivedDataCache: Loaded boot cache 0.15s 69MB C:/Users/User/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.11-00.26.56:247][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.11-00.26.56:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Unreal Projects/Imaluk/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.11-00.26.56:247][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.11-00.26.56:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Unreal Projects/Imaluk/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.11-00.26.56:247][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.11-00.26.56:290][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.11-00.26.56:302][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.11-00.27.00:125][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.11-00.27.00:131][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.11-00.27.00:264][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.11-00.27.00:264][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.11-00.27.00:264][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.11-00.27.00:465][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.11-00.27.01:340][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: imaluk, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3747946905
+[2016.11.11-00.27.01:393][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2016.11.11-00.27.01:430][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.031498 seconds
+[2016.11.11-00.27.01:437][  0]LogUObjectArray: 29738 objects as part of root set at end of initial load.
+[2016.11.11-00.27.01:437][  0]LogUObjectAllocator: 6114920 out of 0 bytes used by permanent object pool.
+[2016.11.11-00.27.01:437][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.11-00.27.01:448][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.11-00.27.01:978][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.11-00.27.01:978][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.11-00.27.04:736][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.11-00.27.04:762][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.11-00.27.05:283][  0]SourceControl: Info Source control is disabled
+[2016.11.11-00.27.06:716][  0]LogEngine: Initializing Engine...
+[2016.11.11-00.27.07:026][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.11-00.27.07:043][  0]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.11-00.27.07:054][  0]LogInit: FAudioDevice initialized.
+[2016.11.11-00.27.07:125][  0]LogDerivedDataCache: Saved boot cache 0.07s 69MB C:/Users/User/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.11-00.27.07:152][  0]LogInit: Texture streaming: Enabled
+[2016.11.11-00.27.07:191][  0]LogInit: Transaction tracking system initialized
+[2016.11.11-00.27.07:222][  0]BlueprintLog: New page: Editor Load
+[2016.11.11-00.27.07:359][  0]LocalizationService: Info Localization service is disabled
+[2016.11.11-00.27.07:475][  0]LogConsoleResponse:Display: 
+[2016.11.11-00.27.07:929][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.11-00.27.07:929][  0]LogCook:Display: Mobile HDR setting 0
+[2016.11.11-00.27.08:080][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/Imaluk/Content/' took 0.02s
+[2016.11.11-00.27.08:429][  0]Cmd: MAP LOAD FILE="F:/Unreal Projects/Imaluk/Content/defaultLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.11-00.27.29:728][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.11-00.27.29:728][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.11-00.27.29:733][  0]LightingResults: New page: Lighting Build
+[2016.11.11-00.27.29:739][  0]MapCheck: New page: Map Check
+[2016.11.11-00.27.29:739][  0]LightingResults: New page: Lighting Build
+[2016.11.11-00.27.29:759][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.11-00.27.29:762][  0]LoadErrors: New page: New Map
+[2016.11.11-00.27.29:834][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.11-00.27.29:834][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.11-00.27.29:949][  0]LogCollectionManager: Loaded 0 collections in 0.003068 seconds
+[2016.11.11-00.27.29:996][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/Imaluk/Saved/Collections/' took 0.01s
+[2016.11.11-00.27.29:996][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/Imaluk/Content/Developers/User/Collections/' took 0.01s
+[2016.11.11-00.27.29:996][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/Imaluk/Content/Collections/' took 0.01s
+[2016.11.11-00.27.29:996][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2016.11.11-00.27.30:012][  0]LogContentBrowser: Native class hierarchy populated in 0.0162 seconds. Added 2136 classes and 403 folders.
+[2016.11.11-00.27.30:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.11-00.27.30:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.11-00.27.30:021][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 12 classes and 0 folders.
+[2016.11.11-00.27.30:028][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2016.11.11-00.27.30:393][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2016.11.11-00.27.30:401][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.11.11-00.27.30:423][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.11-00.27.30:432][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.11-00.27.30:461][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.11.11-00.27.30:461][  0]LogLoad: (Engine Initialization) Total time: 43.72 seconds
+[2016.11.11-00.27.30:461][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.04 seconds
+[2016.11.11-00.27.30:461][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.11-00.27.30:461][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.11-00.27.30:489][  0]LogContentStreaming: Texture pool size now 800 MB
+[2016.11.11-00.27.30:734][  1]LogAssetRegistry: Asset discovery search completed in 29.3629 seconds
+[2016.11.11-00.27.30:734][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.11-00.27.30:735][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2016.11.11-00.27.30:749][  2]LogRenderer: Reallocating scene render targets to support 852x476 (Frame:2).
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info On branch master
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info Changes to be committed:
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info   (use "git reset HEAD <file>..." to unstage)
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Config/DefaultEditor.ini
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Config/DefaultEngine.ini
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	new file:   Content/Assets/Placeholders/BoardGrid.uasset
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	new file:   Content/Assets/Placeholders/PH_White_Sphere.uasset
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	new file:   Content/Assets/Placeholders/PlaceHolder_Art/2x1.png
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	new file:   Content/Assets/Placeholders/PlaceHolder_Art/2x2.png
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	new file:   Content/Assets/Placeholders/PlaceHolder_Art/2x3.png
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	new file:   Content/Assets/Placeholders/PlaceHolder_Art/3x1.png
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	new file:   Content/Assets/Placeholders/PlaceHolder_Art/PH_Background.png
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	new file:   Content/Assets/Placeholders/PlaceHolder_Art/PH_Background_Sprite.uasset
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Imaluk.uproject
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Intermediate/CachedAssetRegistry.bin
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Intermediate/ReimportCache/3688439234.bin
+[2016.11.11-00.27.31:462][ 65]SourceControl: Info 	modified:   Saved/AutoScreenshot.png
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Assets/Placeholders/BP_grid_piece_Auto2.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Assets/Placeholders/BP_grid_piece_Auto3.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Assets/Placeholders/BP_grid_piece_Auto4.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Assets/Placeholders/BP_grid_piece_Auto5.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Assets/Placeholders/NewBlueprint_Auto2.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Assets/Placeholders/PH_UI_Widget_Auto1.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto1.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto2.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Imaluk_GameMode_Auto1.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Maps/defaultLevel_Auto1.umap
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Maps/defaultLevel_Auto2.umap
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Maps/defaultLevel_Auto3.umap
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Maps/defaultLevel_Auto4.umap
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/Maps/defaultLevel_Auto5.umap
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/PH_HUD_Auto1.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/UEDPCdefaultLevel.umap
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/defaultLevel_Auto1.umap
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Autosaves/Game/defaultLevel_Auto2.umap
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/1x2_2016-10-16-18-05-55.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/2x1_2016-10-19-20-50-31.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/2x2_2016-10-19-20-51-34.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/2x3_2016-10-19-20-50-34.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/3x1_2016-10-19-20-51-38.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/AITesting_MoveGoal_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/AddingCode_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_Sky_Sphere_2016-11-03-12-49-12.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-10-13-21-13-42.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-10-13-21-38-45.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-10-17-21-15-21.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-10-19-20-25-53.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-13-08-47.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-13-15-12.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-13-22-03.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-13-27-34.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-13-47-29.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-13-57-11.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-14-07-18.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-14-12-26.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-03-14-19-45.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-07-19-44-07.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-07-19-53-00.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-07-20-05-00.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BP_grid_piece_2016-11-07-20-14-46.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BlueprintInterfacesEditorOverview_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/BlueprintMacroLibrariesEditorOverview_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/ClassBlueprintsEditorOverview_2016-11-03-12-49-00.uasset
+[2016.11.11-00.27.31:463][ 65]SourceControl: Info 	new file:   Saved/Backup/ContentBrowserOverview_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/CreatingSigningCertAndProvisionTutorial_2016-11-03-12-49-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/DestructibleMeshEditorTutorial_2016-11-03-12-49-08.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Entry_2016-11-03-12-49-01.umap
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/FeaturePacks_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/FlipbookEditorTutorial_2016-11-03-12-49-08.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/FoliageWalkThrough_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Foliage_Intro_Tutorial_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Foliage_Settings_Tutorial_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Foliage_Using_The_Tool_Tutorial_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/IWBE_Blutility_2016-11-03-12-49-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/IWBE_Bridge1_2016-11-03-12-49-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/IWBE_Bridge2_2016-11-03-12-49-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/IWBE_Tutorial_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/IWBE_Tutorial_Part2_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/IWBE_Tutorial_Part3_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-02-12-17-20.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-02-12-29-05.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-02-16-11-34.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-02-16-21-45.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-02-16-29-48.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-03-12-54-17.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-03-13-01-42.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-03-13-12-14.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-03-13-24-35.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-03-13-44-27.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-03-13-57-05.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-03-14-11-31.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-03-14-20-06.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	copied:     Content/Blueprints/Imaluk_GameMode.uasset -> Saved/Backup/Imaluk_GameMode_2016-11-07-19-29-01.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-07-19-44-27.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-07-19-53-00.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-07-20-14-46.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_GameMode_2016-11-07-20-22-13.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Imaluk_PlayerController_2016-11-02-12-21-37.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/InstallingVisualStudioTutorial_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/InstallingXCodeTutorial_2016-11-03-12-49-10.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/InstallingiTunesTutorial_2016-11-03-12-49-08.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/LandscapeWalkThrough_2016-11-03-12-49-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Landscape_Manage_Mode_2016-11-03-12-49-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Landscape_Painting_Mode_2016-11-03-12-49-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/Landscape_Sculpt_Mode_2016-11-03-12-49-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/LevelBlueprintEditorOverview_2016-11-03-12-49-00.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/M_Black_2016-10-17-21-17-53.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/M_Black_2016-11-07-21-07-09.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/M_Black_2016-11-07-21-14-01.uasset
+[2016.11.11-00.27.31:464][ 65]SourceControl: Info 	new file:   Saved/Backup/M_Black_2016-11-07-21-21-03.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/M_Red_2016-10-17-21-19-26.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/M_Red_2016-11-07-20-23-14.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/M_Red_2016-11-07-21-07-29.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/M_Red_2016-11-07-21-21-03.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/M_board_grid_2016-10-08-19-58-33.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/M_board_grid_2016-10-13-21-34-07.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/M_board_grid_line_2016-10-13-21-36-14.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/NewBlueprint_2016-10-08-19-59-47.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PH_Black_Sphere_2016-10-17-21-21-52.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PH_Red_Piece_2016-10-17-21-22-45.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PH_UI_Widget_2016-11-02-16-34-54.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PH_UI_Widget_2016-11-03-12-49-41.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PH_UI_Widget_2016-11-03-13-01-42.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PH_UI_Widget_2016-11-03-13-22-35.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PH_UI_Widget_2016-11-07-19-24-58.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/ParticleSystemEditorTutorial_2016-11-03-12-49-00.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PersonaAnimBlueprintEditorWalkthrough_2016-11-03-12-49-08.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PersonaAnimEditorWalkthrough_2016-11-03-12-49-00.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/PersonaWalkthrough_2016-11-03-12-49-00.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/RenderToTexture_Game_2016-11-03-12-49-07.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	copied:     Intermediate/CachedAssetRegistry.bin -> Saved/Backup/RenderToTexture_LevelBP_2016-11-03-12-49-05.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/RenderToTexture_Pawn_2016-11-03-12-49-05.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/SettingUpAndroidTutorial_2016-11-03-12-49-08.uasset
+[2016.11.11-00.27.31:465][ 65]SourceControl: Info 	new file:   Saved/Backup/SkeletalMeshEditorWalkthrough_2016-11-03-12-49-07.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/SkeletonModeWalkthrough_2016-11-03-12-49-07.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/SpriteEditorTutorial_2016-11-03-12-49-08.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/StaticMeshEditorTutorial_2016-11-03-12-49-07.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/Template_Default_2016-11-03-12-49-01.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/Template_Default_2016-11-03-13-24-35.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/Template_Default_2016-11-03-14-14-56.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/Template_Default_2016-11-03-14-20-32.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/TutorialAnimationBlueprint_2016-11-03-12-49-00.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/TutorialCharacter_2016-11-03-12-49-07.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/TutorialTPP_AnimBlueprint_2016-11-03-12-48-59.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/Tutorial_BP_Class_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/Tutorial_BP_Interface_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/ViewportsTutorial_2016-11-03-12-49-11.uasset
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-08-19-40-45.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-08-20-02-00.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-13-21-22-39.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-13-21-32-53.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-13-21-42-53.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-17-20-57-49.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-17-21-06-17.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-17-21-20-32.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-19-20-30-15.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-19-20-48-00.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-19-20-53-35.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-19-21-10-02.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-10-20-21-03-44.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-11-52-40.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-12-00-14.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-12-20-44.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-12-29-19.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-12-35-55.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-15-58-49.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-16-11-37.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-16-23-30.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-02-16-29-49.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-03-12-51-44.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-03-13-12-13.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-03-13-24-34.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-03-13-47-28.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-03-13-58-22.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-03-14-13-22.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-03-14-20-31.umap
+[2016.11.11-00.27.31:466][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-19-44-39.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-19-53-00.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-20-05-00.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-20-14-46.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-20-23-20.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-20-55-56.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-21-08-03.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-21-14-38.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Backup/defaultLevel_2016-11-07-21-21-03.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Config/Windows/Editor.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Config/Windows/Engine.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Config/WorldState/2822988471.json
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Config/WorldState/3790153061.json
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/Imaluk-backup-2016.11.03-12.25.11.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/Imaluk-backup-2016.11.07-18.26.09.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/Imaluk-backup-2016.11.07-20.24.21.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Logs/Imaluk.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/Imaluk_2-backup-2016.11.07-20.25.54.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/Imaluk_2.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/Imaluk_3.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	renamed:    Saved/Logs/UE4CC-Windows-D47285764914B7501676D482F610A03F/CrashReportClient.ini -> Saved/Logs/UE4CC-Windows-3878ED8647DBF3EDCD2E90880B8B8F44/CrashReportClient.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/UE4CC-Windows-7F954CC54B9127810C615BAF7B37432A/CrashReportClient.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/UE4CC-Windows-906E89384EE43319B82E6C9180F58E81/CrashReportClient.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/UE4CC-Windows-91A3305F434C6B97DF515ABD9DA8854B/CrashReportClient.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	new file:   Saved/Logs/UE4CC-Windows-E57171A44C34A6C73CCDFE9B3E603F4B/CrashReportClient.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info Changes not staged for commit:
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Intermediate/CachedAssetRegistry.bin
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/AutoScreenshot.png
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Autosaves/Game/Assets/Placeholders/BP_grid_piece_Auto2.uasset
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto1.uasset
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Autosaves/Game/Maps/defaultLevel_Auto2.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Autosaves/Game/defaultLevel_Auto1.umap
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	deleted:    Saved/Logs/Imaluk-backup-2016.11.03-12.25.11.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Logs/Imaluk.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	modified:   Saved/Logs/Imaluk_3.log
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-E57171A44C34A6C73CCDFE9B3E603F4B/CrashReportClient.ini
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info Untracked files:
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2016.11.11-00.27.31:467][ 65]SourceControl: Info 	Saved/Logs/Imaluk-backup-2016.11.10-18.26.49.log
+[2016.11.11-00.27.31:468][ 65]SourceControl: Info 	Saved/Logs/UE4CC-Windows-8CDC42074C5D7D1FEDE4F899643D23D4/
+[2016.11.11-00.27.36:733][643]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.11-00.27.37:044][643]Cmd: MAP LOAD FILE="F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.11-00.27.37:044][643]LightingResults: New page: Lighting Build
+[2016.11.11-00.27.37:045][643]LoadErrors: New page: Loading map: defaultLevel.umap
+[2016.11.11-00.27.37:045][643]MapCheck: New page: Map Check
+[2016.11.11-00.27.37:045][643]LightingResults: New page: Lighting Build
+[2016.11.11-00.27.37:175][643]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.11-00.27.37:207][643]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.11-00.27.37:277][643]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 70.15ms to complete.
+[2016.11.11-00.27.37:279][643]LogFileHelpers: Loading map 'defaultLevel' took 0.236
+[2016.11.11-00.27.41:417][123]LogRenderer: Reallocating scene render targets to support 1140x584 (Frame:1096).
+[2016.11.11-00.27.43:713][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.27.43:713][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.11-00.27.43:714][390]PIE: New page: PIE session: defaultLevel (Nov 10, 2016, 12:27:43 PM)
+[2016.11.11-00.27.43:714][390]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.11-00.27.43:744][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030126s)
+[2016.11.11-00.27.43:745][390]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.11-00.27.43:745][390]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2016.11.11-00.27.43:746][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.031713s)
+[2016.11.11-00.27.43:776][390]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.11-00.27.43:784][390]LogInit: FAudioDevice initialized.
+[2016.11.11-00.27.43:864][390]LogWorld: Game class is 'Imaluk_GameMode_C'
+[2016.11.11-00.27.43:890][390]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.10-18.27.43
+[2016.11.11-00.27.43:896][390]LogWorld: Bringing up level for play took: 0.029850
+[2016.11.11-00.27.43:901][390]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2016.11.11-00.27.43:901][390]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-00.27.43:901][390]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-00.27.43:901][390]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-00.27.43:904][390]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-00.27.43:908][390]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.748
+[2016.11.11-00.27.43:909][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.27.43:949][390]LogRenderer: Reallocating scene render targets to support 1680x972 (Frame:1357).
+[2016.11.11-00.27.58:700][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.27.58:755][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.31.11:272][870]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 112 classes and 0 folders.
+[2016.11.11-00.31.23:229][951]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-00.31.24:124][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-00.31.24:164][ 23]LogSavePackage: Save=23.41ms
+[2016.11.11-00.31.24:164][ 23]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_Widget36BB2B0549ECF02F4C399F8B1B805E48.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-00.31.24:169][ 23]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-00.32.45:729][522]LogEditorTransaction: Undo Break Pin Links
+[2016.11.11-00.36.49:817][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-00.36.49:877][414]LogSavePackage: Save=26.25ms
+[2016.11.11-00.36.49:877][414]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_Widget06ABD1EA4982EE623DD744A10AD3FA76.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-00.36.49:883][414]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-00.36.50:362][469]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-00.37.28:154][917]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-00.37.29:047][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-00.37.29:086][994]LogSavePackage: Save=28.62ms
+[2016.11.11-00.37.29:086][994]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_WidgetE4F147EE433E4730C8CCC8BEA251638B.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-00.37.29:091][994]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-00.38.59:486][556]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.42.36:224][856]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.42.36:240][856]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error This blueprint (self) is not a PH_UI_Widget_C, therefore ' self ' must have a connection.
+[2016.11.11-00.42.36:240][856]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error This blueprint (self) is not a PH_UI_Widget_C, therefore ' self ' must have a connection.
+[2016.11.11-00.42.36:240][856]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_4  to imply a specific type.
+[2016.11.11-00.42.36:240][856]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
+[2016.11.11-00.42.36:240][856]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.42.36:240][856]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2016.11.11-00.42.36:445][856]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PH_UI_Widget_C, therefore ' self ' must have a connection.
+[2016.11.11-00.42.36:445][856]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PH_UI_Widget_C, therefore ' self ' must have a connection.
+[2016.11.11-00.42.36:445][856]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_4  to imply a specific type.
+[2016.11.11-00.42.36:445][856]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
+[2016.11.11-00.42.36:445][856]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.42.36:445][856]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2016.11.11-00.42.36:445][856]LogBlueprint:Warning: [Compiler Imaluk_GameMode] Warning [0949.70] Compile of Imaluk_GameMode failed. 6 Fatal Issue(s) 0 Warning(s) [in 221 ms] (/Game/Blueprints/Imaluk_GameMode.Imaluk_GameMode)
+[2016.11.11-00.43.39:578][ 89]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.43.39:593][ 89]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error This blueprint (self) is not a PH_UI_Widget_C, therefore ' self ' must have a connection.
+[2016.11.11-00.43.39:593][ 89]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error This blueprint (self) is not a PH_UI_Widget_C, therefore ' self ' must have a connection.
+[2016.11.11-00.43.39:798][ 89]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PH_UI_Widget_C, therefore ' self ' must have a connection.
+[2016.11.11-00.43.39:798][ 89]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PH_UI_Widget_C, therefore ' self ' must have a connection.
+[2016.11.11-00.43.39:798][ 89]LogBlueprint:Warning: [Compiler Imaluk_GameMode] Warning [1013.05] Compile of Imaluk_GameMode failed. 2 Fatal Issue(s) 0 Warning(s) [in 219 ms] (/Game/Blueprints/Imaluk_GameMode.Imaluk_GameMode)
+[2016.11.11-00.44.07:226][345]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.44.07:242][345]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_4  to imply a specific type.
+[2016.11.11-00.44.07:242][345]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
+[2016.11.11-00.44.07:242][345]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.44.07:242][345]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.44.07:443][345]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_4  to imply a specific type.
+[2016.11.11-00.44.07:443][345]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
+[2016.11.11-00.44.07:443][345]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.44.07:443][345]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.44.07:443][345]LogBlueprint:Warning: [Compiler Imaluk_GameMode] Warning [1040.70] Compile of Imaluk_GameMode failed. 4 Fatal Issue(s) 0 Warning(s) [in 216 ms] (/Game/Blueprints/Imaluk_GameMode.Imaluk_GameMode)
+[2016.11.11-00.44.22:262][ 87]LogEditorTransaction: Undo Move Node
+[2016.11.11-00.44.23:344][205]LogEditorTransaction: Undo Convert to Impure Cast
+[2016.11.11-00.45.22:885][130]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.45.23:862][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.11-00.45.23:917][213]LogSavePackage: Save=34.52ms
+[2016.11.11-00.45.23:917][213]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameModeDF719A904CE5BD33349725AF4A42B4DA.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.11-00.45.23:922][213]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.11-00.45.26:213][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.45.26:213][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.11-00.45.26:213][471]PIE: New page: PIE session: defaultLevel (Nov 10, 2016, 12:45:26 PM)
+[2016.11.11-00.45.26:213][471]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.11-00.45.26:242][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029130s)
+[2016.11.11-00.45.26:243][471]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.11-00.45.26:243][471]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2016.11.11-00.45.26:243][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.030471s)
+[2016.11.11-00.45.26:282][471]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.11-00.45.26:290][471]LogInit: FAudioDevice initialized.
+[2016.11.11-00.45.26:347][471]LogWorld: Game class is 'Imaluk_GameMode_C'
+[2016.11.11-00.45.26:374][471]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.10-18.45.26
+[2016.11.11-00.45.26:379][471]LogWorld: Bringing up level for play took: 0.029995
+[2016.11.11-00.45.26:380][471]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-00.45.26:380][471]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-00.45.26:380][471]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-00.45.26:382][471]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-00.45.26:386][471]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.774
+[2016.11.11-00.45.26:387][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.45.30:238][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.45.30:295][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.46.45:128][729]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.46.45:144][729]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_4  to imply a specific type.
+[2016.11.11-00.46.45:144][729]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
+[2016.11.11-00.46.45:144][729]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.46.45:145][729]LogBlueprint:Error: [Compiler Imaluk_GameMode] Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.46.45:257][729]LogTexture:Display: Building textures: BadBlueprintSprite (BGRA8)
+[2016.11.11-00.46.45:457][729]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_4  to imply a specific type.
+[2016.11.11-00.46.45:457][729]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  K2Node_DynamicCast_3  to imply a specific type.
+[2016.11.11-00.46.45:457][729]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.46.45:457][729]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.11-00.46.45:457][729]LogBlueprint:Warning: [Compiler Imaluk_GameMode] Warning [1198.71] Compile of Imaluk_GameMode failed. 4 Fatal Issue(s) 0 Warning(s) [in 328 ms] (/Game/Blueprints/Imaluk_GameMode.Imaluk_GameMode)
+[2016.11.11-00.46.56:879][ 63]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.46.58:138][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.11-00.46.58:182][182]LogSavePackage: Save=33.61ms
+[2016.11.11-00.46.58:182][182]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameModeE72AB5A349517C7A250E559D835B4DD1.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.11-00.46.58:187][182]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.11-00.47.01:824][600]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.47.17:905][476]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.47.18:872][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.11-00.47.18:914][560]LogSavePackage: Save=31.57ms
+[2016.11.11-00.47.18:914][560]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameMode32BB9BEB402B8EA0691A0EB4F4609A85.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.11-00.47.18:919][560]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.11-00.48.27:534][582]LogBlueprint:Warning: [Imaluk_GameMode] 'BlackPieceCount' variable not found. Base class was probably changed.
+[2016.11.11-00.48.27:534][582]LogBlueprint:Warning: [Imaluk_GameMode] 'BlackPieceCount' variable not found. Base class was probably changed.
+[2016.11.11-00.48.27:534][582]LogBlueprint:Warning: [Imaluk_GameMode] 'BlackPieceCount' variable not found. Base class was probably changed.
+[2016.11.11-00.48.58:646][273]LogBlueprint:Warning: [Imaluk_GameMode] 'RedPieceCount' variable not found. Base class was probably changed.
+[2016.11.11-00.48.58:646][273]LogBlueprint:Warning: [Imaluk_GameMode] 'RedPieceCount' variable not found. Base class was probably changed.
+[2016.11.11-00.48.58:646][273]LogBlueprint:Warning: [Imaluk_GameMode] 'RedPieceCount' variable not found. Base class was probably changed.
+[2016.11.11-00.49.26:917][640]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.49.30:432][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.11-00.49.30:483][978]LogSavePackage: Save=40.41ms
+[2016.11.11-00.49.30:483][978]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameMode2DBF9B7F4FD56AD31EDC2C83385FDF8F.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.11-00.49.30:489][978]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.11-00.51.29:716][987]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-00.51.30:754][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-00.51.30:802][ 81]LogSavePackage: Save=30.31ms
+[2016.11.11-00.51.30:802][ 81]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_Widget86F0E8124314E9FF19B0EA9B55B2A00B.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-00.51.30:807][ 81]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-00.51.51:770][553]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-00.51.52:589][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-00.51.52:636][621]LogSavePackage: Save=34.23ms
+[2016.11.11-00.51.52:636][621]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_Widget6C49054E494F115A5732AA958878F155.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-00.51.52:641][621]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-00.52.14:633][222]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-00.52.15:333][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-00.52.15:371][278]LogSavePackage: Save=25.90ms
+[2016.11.11-00.52.15:371][278]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_WidgetF631F6DF4258BAF05BDF439D19BF4B93.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-00.52.15:376][278]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-00.52.51:474][460]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.11-00.52.52:436][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.11-00.52.52:495][542]LogSavePackage: Save=41.44ms
+[2016.11.11-00.52.52:495][542]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameModeCE17B127494F453DC05FA49EB5696341.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.11-00.52.52:501][542]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.11-00.52.55:754][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.11-00.52.56:166][870]LogSavePackage: Save=370.15ms
+[2016.11.11-00.52.56:166][870]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevel38D247904BC063489CB004AE3B30A862.tmp' to 'F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap'
+[2016.11.11-00.52.56:172][870]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap
+[2016.11.11-00.52.56:207][870]LogFileHelpers: Saving map 'defaultLevel' took 0.532
+[2016.11.11-00.52.56:717][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.52.56:717][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.11-00.52.56:718][922]PIE: New page: PIE session: defaultLevel (Nov 10, 2016, 12:52:56 PM)
+[2016.11.11-00.52.56:718][922]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.11-00.52.56:747][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029755s)
+[2016.11.11-00.52.56:748][922]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.11-00.52.56:748][922]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2016.11.11-00.52.56:748][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.031092s)
+[2016.11.11-00.52.56:787][922]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.11-00.52.56:794][922]LogInit: FAudioDevice initialized.
+[2016.11.11-00.52.56:854][922]LogWorld: Game class is 'Imaluk_GameMode_C'
+[2016.11.11-00.52.56:882][922]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.10-18.52.56
+[2016.11.11-00.52.56:888][922]LogWorld: Bringing up level for play took: 0.031941
+[2016.11.11-00.52.56:889][922]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-00.52.56:889][922]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-00.52.56:889][922]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-00.52.56:891][922]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-00.52.56:895][922]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.265
+[2016.11.11-00.52.56:896][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.53.15:701][849]LogBlueprintUserMessages: [Imaluk_GameMode_C_0] May not place here
+[2016.11.11-00.53.20:177][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.53.20:238][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.53.43:416][970]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PH_Background_Sprite)
+[2016.11.11-00.57.18:127][658]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:PH_UI_Widget_C_19.WidgetTree.CanvasPanel_0
+[2016.11.11-00.57.18:127][658]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:PH_UI_Widget_C_18.WidgetTree.CanvasPanel_0
+[2016.11.11-00.57.18:127][658]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:PH_UI_Widget_C_17.WidgetTree.CanvasPanel_0
+[2016.11.11-00.57.18:127][658]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget_C:WidgetTree.CanvasPanel_0
+[2016.11.11-00.57.18:127][658]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_0).  Import failed...
+[2016.11.11-00.57.18:127][658]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_0.CanvasPanelSlot_4''
+[2016.11.11-00.57.18:221][663]SourceControl: Info fatal: C:/Program Files/Epic Games/4.13/Engine/Content/UMG/Editor/Transient.uasset: 'C:/Program Files/Epic Games/4.13/Engine/Content/UMG/Editor/Transient.uasset' is outside repository
+[2016.11.11-00.58.07:277][ 94]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-00.58.08:133][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-00.58.08:179][155]LogSavePackage: Save=27.86ms
+[2016.11.11-00.58.08:179][155]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_WidgetD95966E7417AA8926BE309966842EAA2.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-00.58.08:184][155]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-00.58.11:221][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.58.11:221][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.11-00.58.11:221][470]PIE: New page: PIE session: defaultLevel (Nov 10, 2016, 12:58:11 PM)
+[2016.11.11-00.58.11:221][470]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.11-00.58.11:252][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030608s)
+[2016.11.11-00.58.11:253][470]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.11-00.58.11:253][470]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2016.11.11-00.58.11:253][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.032049s)
+[2016.11.11-00.58.11:293][470]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.11-00.58.11:300][470]LogInit: FAudioDevice initialized.
+[2016.11.11-00.58.11:363][470]LogWorld: Game class is 'Imaluk_GameMode_C'
+[2016.11.11-00.58.11:390][470]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.10-18.58.11
+[2016.11.11-00.58.11:395][470]LogWorld: Bringing up level for play took: 0.030156
+[2016.11.11-00.58.11:396][470]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-00.58.11:396][470]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-00.58.11:396][470]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-00.58.11:398][470]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-00.58.11:403][470]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.242
+[2016.11.11-00.58.11:403][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.58.25:394][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.58.25:471][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-00.58.31:535][584]SourceControl: Info fatal: C:/Program Files/Epic Games/4.13/Engine/Content/: 'C:/Program Files/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.11.11-00.58.48:716][584]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.11.11-00.58.48:888][584]SourceControl: Info [master ee559c5] Wired up logic to keep track of amount of pieces remaining.
+[2016.11.11-00.58.48:888][584]SourceControl: Info  3 files changed, 0 insertions(+), 0 deletions(-)
+[2016.11.11-00.58.48:888][584]SourceControl: Info  rewrite Content/Assets/Placeholders/PH_UI_Widget.uasset (85%)
+[2016.11.11-00.58.48:888][584]SourceControl: Info  rewrite Content/Blueprints/Imaluk_GameMode.uasset (81%)
+[2016.11.11-00.58.48:888][584]SourceControl: Info  rewrite Content/Maps/defaultLevel.umap (89%)
+[2016.11.11-00.58.48:899][584]SourceControl: Info Commited [master ee559c5] Wired up logic to keep track of amount of pieces remaining..
+[2016.11.11-01.00.31:365][543]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget_C:WidgetTree.CanvasPanel_0
+[2016.11.11-01.00.31:365][543]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_PH_UI_Widget_C_29:WidgetTree.CanvasPanel_0
+[2016.11.11-01.00.31:365][543]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:PH_UI_Widget_C_19.WidgetTree.CanvasPanel_0
+[2016.11.11-01.00.31:365][543]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:PH_UI_Widget_C_20.WidgetTree.CanvasPanel_0
+[2016.11.11-01.00.31:365][543]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:PH_UI_Widget_C_2.WidgetTree.CanvasPanel_0
+[2016.11.11-01.00.31:365][543]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:PH_UI_Widget_C_0.WidgetTree.CanvasPanel_0
+[2016.11.11-01.00.31:365][543]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_6) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_4).  Import failed...
+[2016.11.11-01.00.31:365][543]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_0.CanvasPanelSlot_6''
+[2016.11.11-01.00.31:461][548]SourceControl: Info fatal: C:/Program Files/Epic Games/4.13/Engine/Content/UMG/Editor/Transient.uasset: 'C:/Program Files/Epic Games/4.13/Engine/Content/UMG/Editor/Transient.uasset' is outside repository
+[2016.11.11-01.03.23:183][673]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-01.03.23:317][673]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  then
+[2016.11.11-01.03.23:997][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-01.03.24:045][741]LogSavePackage: Save=31.30ms
+[2016.11.11-01.03.24:045][741]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_Widget8135FAFF4587B0CB3EB865A9B5FF42D2.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-01.03.24:051][741]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-01.05.39:243][176]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-01.05.39:256][176]LogBlueprint:Error: [Compiler PH_UI_Widget] Error Binding: Property ' VisibilityDelegate ' on Widget ' BlackPlayerBlock ': Binding: 'None' : 'None' was not found on 'PH UI Widget'.
+[2016.11.11-01.05.39:468][176]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  then
+[2016.11.11-01.05.39:468][176]BlueprintEditorCompileResults:Error: Error Binding: Property ' VisibilityDelegate ' on Widget ' BlackPlayerBlock ': Binding: 'None' : 'None' was not found on 'PH UI Widget'.
+[2016.11.11-01.05.39:468][176]LogBlueprint:Warning: [Compiler PH_UI_Widget] Warning [2449.81] Compile of PH_UI_Widget failed. 1 Fatal Issue(s) 0 Warning(s) [in 225 ms] (/Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget)
+[2016.11.11-01.05.40:014][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-01.05.40:056][225]LogSavePackage: Save=30.40ms
+[2016.11.11-01.05.40:056][225]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_Widget3C1F9E744E06B7C8F381029BA193BD31.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-01.05.40:061][225]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-01.06.29:016][  3]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-01.06.29:029][  3]LogBlueprint:Error: [Compiler PH_UI_Widget] Error Binding: Property ' VisibilityDelegate ' on Widget ' BlackPlayerBlock ': Binding: 'None' : 'None' was not found on 'PH UI Widget'.
+[2016.11.11-01.06.29:236][  3]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  else
+[2016.11.11-01.06.29:236][  3]BlueprintEditorCompileResults:Error: Error Binding: Property ' VisibilityDelegate ' on Widget ' BlackPlayerBlock ': Binding: 'None' : 'None' was not found on 'PH UI Widget'.
+[2016.11.11-01.06.29:236][  3]LogBlueprint:Warning: [Compiler PH_UI_Widget] Warning [2499.58] Compile of PH_UI_Widget failed. 1 Fatal Issue(s) 0 Warning(s) [in 220 ms] (/Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget)
+[2016.11.11-01.06.55:993][186]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-01.06.56:006][186]LogBlueprint:Error: [Compiler PH_UI_Widget] Error Binding: Property ' VisibilityDelegate ' on Widget ' BlackPlayerBlock ': Binding: 'None' : 'None' was not found on 'PH UI Widget'.
+[2016.11.11-01.06.56:206][186]BlueprintEditorCompileResults:Error: Error Binding: Property ' VisibilityDelegate ' on Widget ' BlackPlayerBlock ': Binding: 'None' : 'None' was not found on 'PH UI Widget'.
+[2016.11.11-01.06.56:207][186]LogBlueprint:Warning: [Compiler PH_UI_Widget] Warning [2526.55] Compile of PH_UI_Widget failed. 1 Fatal Issue(s) 0 Warning(s) [in 213 ms] (/Game/Assets/Placeholders/PH_UI_Widget.PH_UI_Widget)
+[2016.11.11-01.07.58:243][303]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-01.08.01:366][617]BlueprintLog: New page: Compile PH_UI_Widget
+[2016.11.11-01.08.02:050][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Placeholders/PH_UI_Widget" FILE="F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset" SILENT=true
+[2016.11.11-01.08.02:097][662]LogSavePackage: Save=37.94ms
+[2016.11.11-01.08.02:097][662]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/PH_UI_WidgetD7645C4C4D95681E190C60802CAF5B85.tmp' to 'F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset'
+[2016.11.11-01.08.02:103][662]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Assets/Placeholders/PH_UI_Widget.uasset
+[2016.11.11-01.08.03:574][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-01.08.03:574][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.11-01.08.03:574][814]PIE: New page: PIE session: defaultLevel (Nov 10, 2016, 1:08:03 PM)
+[2016.11.11-01.08.03:575][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.11-01.08.03:608][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032925s)
+[2016.11.11-01.08.03:608][814]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.11-01.08.03:609][814]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2016.11.11-01.08.03:609][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.034432s)
+[2016.11.11-01.08.03:645][814]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.11-01.08.03:652][814]LogInit: FAudioDevice initialized.
+[2016.11.11-01.08.03:713][814]LogWorld: Game class is 'Imaluk_GameMode_C'
+[2016.11.11-01.08.03:743][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.10-19.08.03
+[2016.11.11-01.08.03:748][814]LogWorld: Bringing up level for play took: 0.033819
+[2016.11.11-01.08.03:749][814]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-01.08.03:749][814]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.11-01.08.03:749][814]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-01.08.03:752][814]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.11-01.08.03:757][814]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.317
+[2016.11.11-01.08.03:757][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-01.08.21:740][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-01.08.21:813][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.11-01.08.44:058][907]SourceControl: Info fatal: C:/Program Files/Epic Games/4.13/Engine/Content/: 'C:/Program Files/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.11.11-01.08.56:592][907]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.11.11-01.08.56:657][907]SourceControl: Info [master eab7caf] Added a placeholder way to tracking turns
+[2016.11.11-01.08.56:657][907]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2016.11.11-01.08.56:657][907]SourceControl: Info  rewrite Content/Assets/Placeholders/PH_UI_Widget.uasset (74%)
+[2016.11.11-01.08.56:667][907]SourceControl: Info Commited [master eab7caf] Added a placeholder way to tracking turns.
+[2016.11.11-01.14.21:195][642]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.11-01.14.21:458][643]Cmd: QUIT_EDITOR
+[2016.11.11-01.14.22:385][643]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.11-01.14.22:389][643]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.11-01.14.22:421][643]LogExit: Preparing to exit.
+[2016.11.11-01.14.23:633][643]LogExit: Editor shut down
+[2016.11.11-01.14.23:633][643]LogExit: Transaction tracking system shut down
+[2016.11.11-01.14.23:848][643]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.11-01.14.23:848][643]LogExit: Object subsystem successfully closed.
+[2016.11.11-01.14.23:868][643]LogD3D11RHI: Shutdown
+[2016.11.11-01.14.23:868][643]LogD3D11RHI: CleanupD3DDevice
+[2016.11.11-01.14.23:966][643]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module SequencerWidgets (231)
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module BlueprintGraph (230)
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (229)
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (228)
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (227)
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module CrashTracker (226)
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module SceneOutliner (225)
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module WidgetCarousel (224)
+[2016.11.11-01.14.23:988][643]LogModuleManager: Shutting down and abandoning module AddContentDialog (223)
+[2016.11.11-01.14.23:988][643]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.11-01.14.23:989][643]LogModuleManager: Shutting down and abandoning module GameplayTags (222)
+[2016.11.11-01.14.23:989][643]LogModuleManager: Shutting down and abandoning module EditorWidgets (221)
+[2016.11.11-01.14.23:989][643]LogModuleManager: Shutting down and abandoning module CollectionManager (220)
+[2016.11.11-01.14.23:989][643]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projects/Imaluk/Content/Collections/' was aborted.
+[2016.11.11-01.14.23:989][643]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projects/Imaluk/Content/Developers/User/Collections/' was aborted.
+[2016.11.11-01.14.23:990][643]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projects/Imaluk/Saved/Collections/' was aborted.
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module StatsViewer (219)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module FoliageEdit (218)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module LandscapeEditor (217)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (216)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module ActorPickerMode (215)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module GeometryMode (214)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module TextureAlignMode (213)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module BspMode (212)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module HardwareSurvey (211)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (210)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module SequenceRecorder (209)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module AutomationWorker (208)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (207)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module PlacementMode (206)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (205)
+[2016.11.11-01.14.23:990][643]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (204)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (203)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (202)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (201)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module Media (200)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (199)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (198)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module CharacterAI (197)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module SmartSnapping (196)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module SessionServices (195)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module ViewportSnapping (194)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module ViewportInteraction (193)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module LogVisualizer (192)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (191)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module IntroTutorials (190)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (189)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (188)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (187)
+[2016.11.11-01.14.23:991][643]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (186)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (185)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (184)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (183)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module NiagaraEditor (182)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module MergeActors (181)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module SizeMap (180)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module TreeMap (179)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module ReferenceViewer (178)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module LocalizationService (177)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (176)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module HardwareTargeting (175)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (174)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module UndoHistory (173)
+[2016.11.11-01.14.24:128][643]LogModuleManager: Shutting down and abandoning module UserFeedback (172)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module XmlParser (171)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module Blutility (170)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (169)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (168)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module InputBindingEditor (167)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (166)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module SettingsEditor (165)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module ProjectLauncher (164)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module SessionFrontend (163)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module ProfilerClient (162)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (161)
+[2016.11.11-01.14.24:129][643]LogModuleManager: Shutting down and abandoning module DeviceManager (160)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module AutomationController (159)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module AutomationWindow (158)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module Layers (157)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (156)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module DetailCustomizations (155)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module PackagesDialog (154)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module AnimGraph (153)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module Persona (152)
+[2016.11.11-01.14.24:170][643]LogModuleManager: Shutting down and abandoning module Kismet (151)
+[2016.11.11-01.14.24:179][643]LogModuleManager: Shutting down and abandoning module GraphEditor (150)
+[2016.11.11-01.14.24:179][643]LogModuleManager: Shutting down and abandoning module ClassViewer (149)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module Toolbox (148)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module ModuleUI (147)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module MovieSceneTools (146)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module OutputLog (145)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module GammaUI (144)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module Documentation (143)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module Niagara (142)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (141)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module AnalyticsET (140)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module PortalServices (139)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module PortalRpc (138)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module MessagingRpc (137)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module GameplayDebugger (136)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module AITestSuite (135)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module AIModule (134)
+[2016.11.11-01.14.24:181][643]LogModuleManager: Shutting down and abandoning module ProfilerService (133)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module TaskGraph (132)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module SlateRemote (131)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (130)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (129)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (128)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module CableComponent (127)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (126)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (124)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module HTML5Networking (123)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (122)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module GeometryCache (121)
+[2016.11.11-01.14.24:390][643]LogModuleManager: Shutting down and abandoning module AlembicLibrary (120)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module AlembicImporter (119)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module SuperSearch (118)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (117)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (116)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module PluginBrowser (115)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (114)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module EpicSurvey (113)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module DesktopPlatform (112)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (111)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module UObjectPlugin (110)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (109)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (108)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module SourceControl (107)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module GitSourceControl (106)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (105)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (104)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (103)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module MeshPaint (102)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (101)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (100)
+[2016.11.11-01.14.24:391][643]LogModuleManager: Shutting down and abandoning module HotReload (99)
+[2016.11.11-01.14.24:393][643]LogModuleManager: Shutting down and abandoning module MainFrame (98)
+[2016.11.11-01.14.24:393][643]LogModuleManager: Shutting down and abandoning module LevelEditor (97)
+[2016.11.11-01.14.24:393][643]LogModuleManager: Shutting down and abandoning module ContentBrowser (96)
+[2016.11.11-01.14.24:395][643]LogModuleManager: Shutting down and abandoning module Paper2DEditor (95)
+[2016.11.11-01.14.24:395][643]LogModuleManager: Shutting down and abandoning module UdpMessaging (94)
+[2016.11.11-01.14.24:496][643]LogModuleManager: Shutting down and abandoning module TcpMessaging (93)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (92)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module Paper2D (91)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (90)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module WmfMedia (89)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module MediaAssets (88)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (87)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (86)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module VREditor (85)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (84)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module PropertyEditor (83)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (82)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module FunctionalTesting (81)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (80)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module Sequencer (79)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (78)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module MessageLog (77)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module AssetTools (76)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module UMGEditor (75)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module UMG (74)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module SlateReflector (73)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module Slate (72)
+[2016.11.11-01.14.24:597][643]LogModuleManager: Shutting down and abandoning module EditorStyle (71)
+[2016.11.11-01.14.24:600][643]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (70)
+[2016.11.11-01.14.24:600][643]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (69)
+[2016.11.11-01.14.24:600][643]LogModuleManager: Shutting down and abandoning module XAudio2 (68)
+[2016.11.11-01.14.24:600][643]LogModuleManager: Shutting down and abandoning module Networking (66)
+[2016.11.11-01.14.24:600][643]LogModuleManager: Shutting down and abandoning module Core (65)
+[2016.11.11-01.14.24:601][643]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (64)
+[2016.11.11-01.14.24:601][643]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.11-01.14.24:601][643]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projects/Imaluk/Content/' was aborted.
+[2016.11.11-01.14.24:601][643]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.11-01.14.24:602][643]LogModuleManager: Shutting down and abandoning module AssetRegistry (63)
+[2016.11.11-01.14.24:823][643]LogModuleManager: Shutting down and abandoning module KismetCompiler (62)
+[2016.11.11-01.14.24:823][643]LogModuleManager: Shutting down and abandoning module PhysXFormats (61)
+[2016.11.11-01.14.24:823][643]LogModuleManager: Shutting down and abandoning module MeshUtilities (60)
+[2016.11.11-01.14.24:823][643]LogModuleManager: Shutting down and abandoning module DerivedDataCache (59)
+[2016.11.11-01.14.24:863][643]LogDerivedDataCache: Shutdown
+[2016.11.11-01.14.24:863][643]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (58)
+[2016.11.11-01.14.24:863][643]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (57)
+[2016.11.11-01.14.24:863][643]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (56)
+[2016.11.11-01.14.24:863][643]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (55)
+[2016.11.11-01.14.24:863][643]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (54)
+[2016.11.11-01.14.24:863][643]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (53)
+[2016.11.11-01.14.24:863][643]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (52)
+[2016.11.11-01.14.24:863][643]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (51)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module ImageWrapper (50)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (49)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (48)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (47)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (46)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (45)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (44)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (43)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (42)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (41)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (40)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.11-01.14.24:864][643]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.11-01.14.24:864][643]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.11-01.14.24:864][643]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.11-01.14.24:864][643]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD98388A1-4F38-2BBF-E907-1FB7B27B8AEE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=74aba5214736824e151f03bbaf437207%7C53d220672b82480284a9feb9b473a650%7C417e5788-2c17-4d1c-9ecf-d5e1b3ef5471&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.11-01.14.24:897][643]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.11-01.14.24:897][643]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.11-01.14.24:897][643]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.11-01.14.24:897][643]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.11-01.14.24:897][643]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.11-01.14.24:902][643]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.11-01.14.24:905][643]LogExit: Exiting.
+[2016.11.11-01.14.24:906][643]Log file closed, 11/10/16 19:14:24
