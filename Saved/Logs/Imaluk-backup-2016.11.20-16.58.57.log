@@ -1,0 +1,1481 @@
+﻿Log file open, 11/20/16 12:32:14
+LogInit:Display: Running engine for game: Imaluk
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(2011570206) SRandInit(2011570206).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.138222
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3195953
+LogInit: Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Nov 12 2016 02:14:10
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.20-18.32.15:121][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.20-18.32.15:121][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.20-18.32.15:169][  0]LogInit: Computer: CECIL
+[2016.11.20-18.32.15:169][  0]LogInit: User: User
+[2016.11.20-18.32.15:169][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.20-18.32.15:169][  0]LogInit: High frequency timer resolution =3.320927 MHz
+[2016.11.20-18.32.15:169][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2016.11.20-18.32.15:170][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.20-18.32.15:170][  0]LogMemory: Process Physical Memory: 264.81 MB used, 264.81 MB peak
+[2016.11.20-18.32.15:170][  0]LogMemory: Process Virtual Memory: 262.58 MB used, 262.58 MB peak
+[2016.11.20-18.32.15:170][  0]LogMemory: Physical Memory: 3332.45 MB used,  8926.58 MB free, 12259.03 MB total
+[2016.11.20-18.32.15:170][  0]LogMemory: Virtual Memory: 675.14 MB used,  8926.58 MB free, 134217728.00 MB total
+[2016.11.20-18.32.15:627][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.20-18.32.18:988][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.20-18.32.19:035][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2016.11.20-18.32.19:035][  0]LogD3D11RHI:       2016/0/6129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.11.20-18.32.19:037][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.20-18.32.19:037][  0]LogD3D11RHI:       0/0/6129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.20-18.32.19:037][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.20-18.32.19:047][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.20-18.32.19:047][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.20-18.32.19:047][  0]LogWindows: EnumDisplayDevices:
+[2016.11.20-18.32.19:047][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2016.11.20-18.32.19:048][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2016.11.20-18.32.19:048][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2016.11.20-18.32.19:048][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2016.11.20-18.32.19:049][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.11.20-18.32.19:049][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2016.11.20-18.32.19:049][  0]LogD3D11RHI:   Driver Version: 372.90 (internal:21.21.13.7290, unified:372.90)
+[2016.11.20-18.32.19:049][  0]LogD3D11RHI:      Driver Date: 9-16-2016
+[2016.11.20-18.32.19:049][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.20-18.32.19:071][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.20-18.32.19:107][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.11.20-18.32.19:113][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (F:/Unreal Projects/Imaluk/Intermediate/Shaders/WorkingDirectory/11500/).
+[2016.11.20-18.32.19:113][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/918A10824BC74191354582B2E6FA06F4/'.
+[2016.11.20-18.32.19:113][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.20-18.32.22:599][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.20-18.32.22:696][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2016.11.20-18.32.22:790][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2016.11.20-18.32.22:886][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2016.11.20-18.32.22:987][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2016.11.20-18.32.23:081][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.20-18.32.23:175][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.20-18.32.23:269][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.20-18.32.23:347][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.20-18.32.23:444][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.20-18.32.23:537][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.20-18.32.23:632][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.20-18.32.23:723][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.20-18.32.23:824][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.20-18.32.23:923][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.20-18.32.24:112][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.20-18.32.24:112][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.20-18.32.24:177][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.20-18.32.24:369][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.20-18.32.24:429][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.20-18.32.24:521][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.20-18.32.24:613][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.20-18.32.24:704][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.20-18.32.24:808][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.20-18.32.24:808][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.20-18.32.25:972][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.20-18.32.26:349][  0]LogDerivedDataCache: Loaded boot cache 0.38s 49MB C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.11.20-18.32.26:349][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2016.11.20-18.32.26:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Unreal Projects/Imaluk/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.20-18.32.26:349][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.20-18.32.26:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Unreal Projects/Imaluk/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.20-18.32.26:349][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.20-18.32.26:394][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.20-18.32.26:406][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.20-18.32.30:723][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.20-18.32.30:736][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.20-18.32.31:145][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2016.11.20-18.32.31:229][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2016.11.20-18.32.31:310][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2016.11.20-18.32.31:310][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2016.11.20-18.32.31:310][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.20-18.32.32:209][  0]LogExec:Warning: Cannot perform text import on property 'EnvironmentCubeMap' here: EnvironmentCubeMap=TextureCube'/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1',PostProcessingSettings=(bOverride_WhiteTemp=True,bOverride_WhiteTint=False,bOverride_ColorSaturation=True,bOverride_ColorContrast=True,bOverride_ColorGamma=True,bOverride_ColorGain=True,bOverride_ColorOffset=True,bOverride_FilmWhitePoint=False,bOverride_FilmSaturation=False,bOverride_FilmChannelMixerRed=False,bOverride_FilmChannelMixerGreen=False,bOverride_FilmChannelMixerBlue=False,bOverride_FilmContrast=False,bOverride_FilmDynamicRange=False,bOverride_FilmHealAmount=False,bOverride_FilmToeAmount=False,bOverride_FilmShadowTint=False,bOverride_FilmShadowTintBlend=False,bOverride_FilmShadowTintAmount=False,bOverride_FilmSlope=True,bOverride_FilmToe=True,bOverride_FilmShoulder=True,bOverride_FilmBlackClip=True,bOverride_FilmWhiteClip=True,bOverride_SceneColorTint=False,bOverride_SceneFringeIntensity=False,bOverride_AmbientCubemapTint=False,bOverride_AmbientCubemapIntensity=False,bOverride_BloomIntensity=True,bOverride_BloomThreshold=False,bOverride_Bloom1Tint=False,bOverride_Bloom1Size=False,bOverride_Bloom2Size=False,bOverride_Bloom2Tint=False,bOverride_Bloom3Tint=False,bOverride_Bloom3Size=False,bOverride_Bloom4Tint=False,bOverride_Bloom4Size=False,bOverride_Bloom5Tint=False,bOverride_Bloom5Size=False,bOverride_Bloom6Tint=False,bOverride_Bloom6Size=False,bOverride_BloomSizeScale=False,bOverride_BloomDirtMaskIntensity=False,bOverride_BloomDirtMaskTint=False,bOverride_BloomDirtMask=False,bOverride_AutoExposureMethod=True,bOverride_AutoExposureLowPercent=False,bOverride_AutoExposureHighPercent=False,bOverride_AutoExposureMinBrightness=True,bOverride_AutoExposureMaxBrightness=True,bOverride_AutoExposureSpeedUp=False,bOverride_AutoExposureSpeedDown=False,bOverride_AutoExposureBias=True,bOverride_HistogramLogMin=True,bOverride_HistogramLogMax=True,bOverride_LensFlareIntensity=False,bOverride_LensFlareTint=False,bOverride_LensFlareTints=False,bOverride_LensFlareBokehSize=False,bOverride_LensFlareBokehShape=False,bOverride_LensFlareThreshold=False,bOverride_VignetteIntensity=True,bOverride_GrainIntensity=False,bOverride_GrainJitter=False,bOverride_AmbientOcclusionIntensity=True,bOverride_AmbientOcclusionStaticFraction=True,bOverride_AmbientOcclusionRadius=True,bOverride_AmbientOcclusionFadeDistance=False,bOverride_AmbientOcclusionFadeRadius=False,bOverride_AmbientOcclusionDistance=False,bOverride_AmbientOcclusionRadiusInWS=False,bOverride_AmbientOcclusionPower=True,bOverride_AmbientOcclusionBias=True,bOverride_AmbientOcclusionQuality=True,bOverride_AmbientOcclusionMipBlend=True,bOverride_AmbientOcclusionMipScale=True,bOverride_AmbientOcclusionMipThreshold=True,bOverride_LPVIntensity=False,bOverride_LPVDirectionalOcclusionIntensity=False,bOverride_LPVDirectionalOcclusionRadius=False,bOverride_LPVDiffuseOcclusionExponent=False,bOverride_LPVSpecularOcclusionExponent=False,bOverride_LPVDiffuseOcclusionIntensity=False,bOverride_LPVSpecularOcclusionIntensity=False,bOverride_LPVSize=False,bOverride_LPVSecondaryOcclusionIntensity=False,bOverride_LPVSecondaryBounceIntensity=False,bOverride_LPVGeometryVolumeBias=False,bOverride_LPVVplInjectionBias=False,bOverride_LPVEmissiveInjectionIntensity=False,bOverride_IndirectLightingColor=False,bOverride_IndirectLightingIntensity=False,bOverride_ColorGradingIntensity=True,bOverride_ColorGradingLUT=True,bOverride_DepthOfFieldFocalDistance=False,bOverride_DepthOfFieldFstop=False,bOverride_DepthOfFieldSensorWidth=False,bOverride_DepthOfFieldDepthBlurRadius=False,bOverride_DepthOfFieldDepthBlurAmount=False,bOverride_DepthOfFieldFocalRegion=False,bOverride_DepthOfFieldNearTransitionRegion=False,bOverride_DepthOfFieldFarTransitionRegion=False,bOverride_DepthOfFieldScale=True,bOverride_DepthOfFieldMaxBokehSize=False,bOverride_DepthOfFieldNearBlurSize=False,bOverride_DepthOfFieldFarBlurSize=False,bOverride_DepthOfFieldMethod=True,bOverride_MobileHQGaussian=False,bOverride_DepthOfFieldBokehShape=False,bOverride_DepthOfFieldOcclusion=False,bOverride_DepthOfFieldColorThreshold=False,bOverride_DepthOfFieldSizeThreshold=False,bOverride_DepthOfFieldSkyFocusDistance=False,bOverride_DepthOfFieldVignetteSize=False,bOverride_MotionBlurAmount=False,bOverride_MotionBlurMax=False,bOverride_MotionBlurPerObjectSize=False,bOverride_ScreenPercentage=False,bOverride_AntiAliasingMethod=False,bOverride_ScreenSpaceReflectionIntensity=True,bOverride_ScreenSpaceReflectionQuality=True,bOverride_ScreenSpaceReflectionMaxRoughness=True,bOverride_ScreenSpaceReflectionRoughnessScale=False,WhiteTemp=6700.000000,WhiteTint=0.000000,ColorSaturation=(X=1.000000,Y=1.000000,Z=1.000000),ColorContrast=(X=1.000000,Y=1.000000,Z=1.000000),ColorGamma=(X=1.000000,Y=1.000000,Z=1.000000),ColorGain=(X=1.000000,Y=1.000000,Z=1.000000),ColorOffset=(X=0.005000,Y=0.005000,Z=0.005000),FilmWhitePoint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),FilmShadowTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),FilmShadowTintBlend=0.500000,FilmShadowTintAmount=0.000000,FilmSaturation=1.000000,FilmChannelMixerRed=(R=1.000000,G=0.000000,B=0.000000,A=1.000000),FilmChannelMixerGreen=(R=0.000000,G=1.000000,B=0.000000,A=1.000000),FilmChannelMixerBlue=(R=0.000000,G=0.000000,B=1.000000,A=1.000000),FilmContrast=0.030000,FilmToeAmount=1.000000,FilmHealAmount=0.180000,FilmDynamicRange=4.000000,FilmSlope=0.880000,FilmToe=0.550000,FilmShoulder=0.260000,FilmBlackClip=0.000000,FilmWhiteClip=0.040000,SceneColorTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),SceneFringeIntensity=0.000000,BloomIntensity=1.000000,BloomThreshold=1.000000,BloomSizeScale=4.000000,Bloom1Size=1.000000,Bloom2Size=4.000000,Bloom3Size=16.000000,Bloom4Size=32.000000,Bloom5Size=64.000000,Bloom6Size=64.000000,Bloom1Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom2Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom3Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom4Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom5Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom6Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),BloomDirtMaskIntensity=1.000000,BloomDirtMaskTint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),BloomDirtMask=None,LPVIntensity=1.000000,LPVVplInjectionBias=0.640000,LPVSize=5312.000000,LPVSecondaryOcclusionIntensity=0.000000,LPVSecondaryBounceIntensity=0.000000,LPVGeometryVolumeBias=0.384000,LPVEmissiveInjectionIntensity=1.000000,LPVDirectionalOcclusionIntensity=0.000000,LPVDirectionalOcclusionRadius=8.000000,LPVDiffuseOcclusionExponent=1.000000,LPVSpecularOcclusionExponent=7.000000,LPVDiffuseOcclusionIntensity=1.000000,LPVSpecularOcclusionIntensity=1.000000,AmbientCubemapTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),AmbientCubemapIntensity=1.000000,AmbientCubemap=None,AutoExposureMethod=AEM_Histogram,AutoExposureLowPercent=80.000000,AutoExposureHighPercent=98.300003,AutoExposureMinBrightness=1.000000,AutoExposureMaxBrightness=1.000000,AutoExposureSpeedUp=3.000000,AutoExposureSpeedDown=1.000000,AutoExposureBias=0.330000,HistogramLogMin=-8.000000,HistogramLogMax=4.000000,LensFlareIntensity=1.000000,LensFlareTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),LensFlareBokehSize=3.000000,LensFlareThreshold=8.000000,LensFlareBokehShape=None,LensFlareTints[0]=(R=1.000000,G=0.800000,B=0.400000,A=0.600000),LensFlareTints[1]=(R=1.000000,G=1.000000,B=0.600000,A=0.530000),LensFlareTints[2]=(R=0.800000,G=0.800000,B=1.000000,A=0.460000),LensFlareTints[3]=(R=0.500000,G=1.000000,B=0.400000,A=0.390000),LensFlareTints[4]=(R=0.500000,G=0.800000,B=1.000000,A=0.310000),LensFlareTints[5]=(R=0.900000,G=1.000000,B=0.800000,A=0.270000),LensFlareTints[6]=(R=1.000000,G=0.800000,B=0.400000,A=0.220000),LensFlareTints[7]=(R=0.900000,G=0.700000,B=0.700000,A=0.150000),VignetteIntensity=0.161468,GrainJitter=0.000000,GrainIntensity=0.000000,AmbientOcclusionIntensity=1.000000,AmbientOcclusionStaticFraction=1.000000,AmbientOcclusionRadius=73.477997,AmbientOcclusionRadiusInWS=False,AmbientOcclusionFadeDistance=8000.000000,AmbientOcclusionFadeRadius=5000.000000,AmbientOcclusionDistance=80.000000,AmbientOcclusionPower=1.200000,AmbientOcclusionBias=3.000000,AmbientOcclusionQuality=100.000000,AmbientOcclusionMipBlend=0.600000,AmbientOcclusionMipScale=1.700000,AmbientOcclusionMipThreshold=0.010000,IndirectLightingColor=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),IndirectLightingIntensity=1.000000,ColorGradingIntensity=0.000000,ColorGradingLUT=Texture2D'/Engine/EditorResources/RGBTable16x1_AssetViewer.RGBTable16x1_AssetViewer',DepthOfFieldMethod=DOFM_BokehDOF,bMobileHQGaussian=False,DepthOfFieldFstop=4.000000,DepthOfFieldSensorWidth=24.576000,DepthOfFieldFocalDistance=1000.000000,DepthOfFieldDepthBlurAmount=1.000000,DepthOfFieldDepthBlurRadius=0.000000,DepthOfFieldFocalRegion=0.000000,DepthOfFieldNearTransitionRegion=300.000000,DepthOfFieldFarTransitionRegion=500.000000,DepthOfFieldScale=0.000000,DepthOfFieldMaxBokehSize=15.000000,DepthOfFieldNearBlurSize=15.000000,DepthOfFieldFarBlurSize=15.000000,DepthOfFieldBokehShape=None,DepthOfFieldOcclusion=0.400000,DepthOfFieldColorThreshold=1.000000,DepthOfFieldSizeThreshold=0.080000,DepthOfFieldSkyFocusDistance=0.000000,DepthOfFieldVignetteSize=200.000000,MotionBlurAmount=0.500000,MotionBlurMax=5.000000,MotionBlurPerObjectSize=0.500000,ScreenPercentage=100.000000,AntiAliasingMethod=AAM_TemporalAA,ScreenSpaceReflectionIntensity=100.000000,ScreenSpaceReflectionQuality=100.000000,ScreenSpaceReflectionMaxRoughness=1.000000,WeightedBlendables=(Array=),Blendables=),bPostProcessingEnabled=True,LightingRigRotation=109.389069,RotationSpeed=2.000000,DirectionalLightRotation=(Pitch=-39.999985,Yaw=-67.500015,Roll=0.000000))
+[2016.11.20-18.32.33:038][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: imaluk, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1667961531
+[2016.11.20-18.32.33:141][  0]LogAssetRegistry: FAssetRegistry took 0.0236 seconds to start up
+[2016.11.20-18.32.33:227][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.038441 seconds
+[2016.11.20-18.32.33:234][  0]LogUObjectArray: 31890 objects as part of root set at end of initial load.
+[2016.11.20-18.32.33:234][  0]LogUObjectAllocator: 6922376 out of 0 bytes used by permanent object pool.
+[2016.11.20-18.32.33:234][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.20-18.32.33:347][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.20-18.32.34:895][  0]LogSlate: Using Freetype 2.6.0
+[2016.11.20-18.32.34:911][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.20-18.32.34:911][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.20-18.32.37:949][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.20-18.32.38:013][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.20-18.32.38:655][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.20-18.32.39:428][  0]SourceControl: Info Source control is disabled
+[2016.11.20-18.32.42:727][  0]LogEngine: Initializing Engine...
+[2016.11.20-18.32.43:293][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.20-18.32.43:319][  0]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-18.32.43:337][  0]LogInit: FAudioDevice initialized.
+[2016.11.20-18.32.43:400][  0]LogDerivedDataCache: Saved boot cache 0.06s 50MB C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.11.20-18.32.43:420][  0]LogInit: Texture streaming: Enabled
+[2016.11.20-18.32.43:737][  0]LogInit: Transaction tracking system initialized
+[2016.11.20-18.32.44:363][  0]BlueprintLog: New page: Editor Load
+[2016.11.20-18.32.45:957][  0]LocalizationService: Info Localization service is disabled
+[2016.11.20-18.32.47:141][  0]LogConsoleResponse:Display: 
+[2016.11.20-18.32.47:776][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.20-18.32.47:777][  0]LogCook:Display: Mobile HDR setting 0
+[2016.11.20-18.32.48:035][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/Imaluk/Content/' took 0.03s
+[2016.11.20-18.32.49:795][  0]Cmd: MAP LOAD FILE="F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.20-18.32.49:796][  0]LightingResults: New page: Lighting Build
+[2016.11.20-18.32.49:870][  0]MapCheck: New page: Map Check
+[2016.11.20-18.32.49:870][  0]LightingResults: New page: Lighting Build
+[2016.11.20-18.32.50:755][  0]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-18.32.51:140][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.20-18.32.51:143][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.20-18.32.51:211][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 67.976ms to complete.
+[2016.11.20-18.32.51:211][  0]LogFileHelpers: Loading map 'defaultLevel' took 1.418
+[2016.11.20-18.32.51:315][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.20-18.32.51:315][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.20-18.32.51:534][  0]LogCollectionManager: Loaded 0 collections in 0.003246 seconds
+[2016.11.20-18.32.51:674][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/Imaluk/Saved/Collections/' took 0.01s
+[2016.11.20-18.32.51:674][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/Imaluk/Content/Developers/User/Collections/' took 0.01s
+[2016.11.20-18.32.51:674][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/Imaluk/Content/Collections/' took 0.01s
+[2016.11.20-18.32.51:674][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.11.20-18.32.51:693][  0]LogContentBrowser: Native class hierarchy populated in 0.0163 seconds. Added 2185 classes and 418 folders.
+[2016.11.20-18.32.51:770][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.20-18.32.51:770][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.20-18.32.51:772][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 13 classes and 0 folders.
+[2016.11.20-18.32.51:894][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.11.20-18.32.52:308][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2016.11.20-18.32.52:395][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.11.20-18.32.52:524][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.20-18.32.52:542][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.20-18.32.52:646][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.11.20-18.32.52:646][  0]LogLoad: (Engine Initialization) Total time: 41.92 seconds
+[2016.11.20-18.32.52:646][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.22 seconds
+[2016.11.20-18.32.52:647][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.20-18.32.52:647][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.20-18.32.52:680][  0]SourceControl: Info On branch master
+[2016.11.20-18.32.52:680][  0]SourceControl: Info Your branch is ahead of 'origin/master' by 3 commits.
+[2016.11.20-18.32.52:680][  0]SourceControl: Info   (use "git push" to publish your local commits)
+[2016.11.20-18.32.52:680][  0]SourceControl: Info Changes not staged for commit:
+[2016.11.20-18.32.52:680][  0]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2016.11.20-18.32.52:680][  0]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.11.20-18.32.52:680][  0]SourceControl: Info 	modified:   Content/Assets/Sprites/2by2-glacier.uasset
+[2016.11.20-18.32.52:680][  0]SourceControl: Info 	modified:   Content/Blueprints/BP_2x1Piece.uasset
+[2016.11.20-18.32.52:680][  0]SourceControl: Info 	modified:   Content/Blueprints/BP_grid_piece.uasset
+[2016.11.20-18.32.52:680][  0]SourceControl: Info 	modified:   Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.20-18.32.52:680][  0]SourceControl: Info 	modified:   Content/Maps/defaultLevel.umap
+[2016.11.20-18.32.52:680][  0]SourceControl: Info 	modified:   Imaluk.uproject
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/CachedAssetRegistry.bin
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Game.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Hardware.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/Config/CoalescedSourceConfigs/Scalability.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Intermediate/ReimportCache/3688439234.bin
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/AutoScreenshot.png
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto1.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Autosaves/Game/Maps/defaultLevel_Auto1.umap
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Autosaves/Game/Maps/defaultLevel_Auto2.umap
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Autosaves/Game/Maps/defaultLevel_Auto3.umap
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Autosaves/Game/Maps/defaultLevel_Auto4.umap
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Autosaves/Game/Maps/defaultLevel_Auto5.umap
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Config/Windows/Editor.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Config/Windows/Engine.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Config/Windows/SourceControlSettings.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Config/WorldState/2822988471.json
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/Imaluk-backup-2016.11.07-18.26.09.log
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/Imaluk-backup-2016.11.07-20.24.21.log
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/Imaluk-backup-2016.11.10-18.26.49.log
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/Imaluk-backup-2016.11.12-10.54.44.log
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/Imaluk-backup-2016.11.12-12.39.47.log
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/Imaluk-backup-2016.11.12-14.02.46.log
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	modified:   Saved/Logs/Imaluk.log
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/Imaluk_2-backup-2016.11.07-20.25.54.log
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-3878ED8647DBF3EDCD2E90880B8B8F44/CrashReportClient.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-39CC029F4698B1BCC00E25A59C2E0DA9/CrashReportClient.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-7F954CC54B9127810C615BAF7B37432A/CrashReportClient.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-8CDC42074C5D7D1FEDE4F899643D23D4/CrashReportClient.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-8F1E9D614562B8C8C624AE99D8831B7D/CrashReportClient.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-906E89384EE43319B82E6C9180F58E81/CrashReportClient.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-91A3305F434C6B97DF515ABD9DA8854B/CrashReportClient.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-BB17EAC444F909C6AECAE986BC76692B/CrashReportClient.ini
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-BB17EAC444F909C6AECAE986BC76692B_0000/CrashContext.runtime-xml
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	deleted:    Saved/Logs/UE4CC-Windows-BB17EAC444F909C6AECAE986BC76692B_0000/UE4Minidump.dmp
+[2016.11.20-18.32.52:681][  0]SourceControl: Info Untracked files:
+[2016.11.20-18.32.52:681][  0]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Content/MobileStarterContent/
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Autosaves/Game/Blueprints/BP_grid_piece_Auto2.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Autosaves/Game/Blueprints/BP_grid_piece_Auto3.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Autosaves/Game/Blueprints/BP_grid_piece_Auto4.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto3.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto4.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto5.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Backup/2by2-glacier_2016-11-12-16-16-50.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Backup/BP_2x1Piece_2016-11-12-17-49-28.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Backup/BP_2x1Piece_2016-11-19-12-48-03.uasset
+[2016.11.20-18.32.52:681][  0]SourceControl: Info 	Saved/Backup/BP_2x2Piece_2016-11-12-17-50-38.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_2x3Piece_2016-11-12-17-50-10.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_3x1Piece_2016-11-12-17-46-02.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_3x1Piece_2016-11-12-17-52-25.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_grid_piece_2016-11-12-17-26-52.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_grid_piece_2016-11-19-12-36-38.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_grid_piece_2016-11-19-13-02-51.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_grid_piece_2016-11-19-13-14-42.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_grid_piece_2016-11-19-13-24-43.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/BP_grid_piece_2016-11-19-13-36-11.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/Floor_400x400_2016-11-12-16-43-47.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/Imaluk_GameMode_2016-11-12-17-11-56.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/Imaluk_GameMode_2016-11-12-17-21-36.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/Imaluk_GameMode_2016-11-12-17-35-36.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/Imaluk_GameMode_2016-11-12-17-50-40.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/Imaluk_GameMode_2016-11-12-17-56-52.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/Imaluk_GameMode_2016-11-19-12-46-25.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/Imaluk_GameMode_2016-11-19-12-59-48.uasset
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-12-16-45-46.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-12-16-58-39.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-12-17-11-55.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-12-17-23-04.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-12-17-35-36.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-12-17-56-51.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-19-12-31-52.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-19-12-46-25.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-19-13-02-51.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-19-13-14-42.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-19-13-24-42.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Backup/defaultLevel_2016-11-19-13-36-09.umap
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Logs/Imaluk-backup-2016.11.19-12.28.22.log
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Logs/Imaluk-backup-2016.11.19-12.30.10.log
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Logs/Imaluk-backup-2016.11.20-12.32.14.log
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-6A47378C44B744C028BE94A06D00C4EB/
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-75AF9BBC41F28F191322DA86300BDE5A/
+[2016.11.20-18.32.52:682][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-FE79B2BC412D79A1A34AB4883E5BE97D/
+[2016.11.20-18.32.52:682][  0]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.11.20-18.32.52:683][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.20-18.32.52:996][  0]LogRenderer: Reallocating scene render targets to support 1208x584 NumSamples 1 (Frame:2).
+[2016.11.20-18.32.53:171][  2]LogAssetRegistry: Asset discovery search completed in 20.0526 seconds
+[2016.11.20-18.32.53:171][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.20-18.32.53:172][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000472 seconds (updated 0 objects)
+[2016.11.20-18.59.29:262][724]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 111 classes and 0 folders.
+[2016.11.20-19.01.57:631][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2016.11.20-19.01.58:152][195]LogSavePackage: Save=404.58ms
+[2016.11.20-19.01.58:152][195]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevel_Auto150ED9CAD48CF1C1AAC9682A8E998FC6E.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto1.umap'
+[2016.11.20-19.01.58:153][195]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto1.umap
+[2016.11.20-19.01.58:157][195]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/defaultLevel' took 0.577
+[2016.11.20-19.01.58:157][195]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.577
+[2016.11.20-19.04.33:374][978]LogEditorTransaction: Undo Delete current selection
+[2016.11.20-19.04.33:580][984]LogEditorTransaction: Undo Add Node
+[2016.11.20-19.04.33:748][988]LogEditorTransaction: Undo Create Pin Link
+[2016.11.20-19.04.33:927][995]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.34:117][  1]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.34:318][  9]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.34:516][ 17]LogEditorTransaction: Undo Create Pin Link
+[2016.11.20-19.04.34:698][ 24]LogEditorTransaction: Undo Create Pin Link
+[2016.11.20-19.04.34:865][ 30]LogEditorTransaction: Undo Create Pin Link
+[2016.11.20-19.04.35:055][ 37]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.35:236][ 44]LogEditorTransaction: Undo Create Pin Link
+[2016.11.20-19.04.35:401][ 50]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.35:579][ 57]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.35:781][ 65]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.35:982][ 73]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.36:259][ 86]LogEditorTransaction: Undo Break Pin Links
+[2016.11.20-19.04.36:721][109]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.37:117][129]LogEditorTransaction: Undo Paste clipboard contents
+[2016.11.20-19.04.37:374][140]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.37:597][150]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.37:877][163]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.38:118][174]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.38:361][185]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.38:652][199]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.38:919][211]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.39:142][221]LogEditorTransaction: Undo Create Pin Link
+[2016.11.20-19.04.39:436][235]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.39:728][249]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.40:051][265]LogEditorTransaction: Undo Add Node
+[2016.11.20-19.04.40:296][276]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.40:536][287]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.40:759][297]LogEditorTransaction: Undo Paste clipboard contents
+[2016.11.20-19.04.40:988][308]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.41:203][318]LogEditorTransaction: Undo Move Node
+[2016.11.20-19.04.41:412][328]LogEditorTransaction: Undo Remove Parameter
+[2016.11.20-19.04.41:693][342]LogEditorTransaction: Undo Create Pin Link
+[2016.11.20-19.04.42:269][378]LogEditorTransaction: Undo Rename Parameter
+[2016.11.20-19.04.42:689][401]LogEditorTransaction: Undo Change Parameter Type
+[2016.11.20-19.04.52:386][883]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.04.53:296][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.20-19.04.53:380][899]LogSavePackage: Save=56.62ms
+[2016.11.20-19.04.53:380][899]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameMode8D42675344ED4312B748639EF709A007.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.20-19.04.53:382][899]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.20-19.05.12:258][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.20-19.05.12:688][ 19]LogSavePackage: Save=397.13ms
+[2016.11.20-19.05.12:688][ 19]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevel68F433FB4087B7DF229BBA8DF1C508F0.tmp' to 'F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap'
+[2016.11.20-19.05.12:694][ 19]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap
+[2016.11.20-19.06.23:277][913]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.14.35:379][670]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.14.37:471][754]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.14.37:496][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.14.37:497][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.14.37:498][754]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:14:37 AM)
+[2016.11.20-19.14.37:498][754]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.14.37:530][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032178s)
+[2016.11.20-19.14.37:531][754]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.14.37:532][754]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2016.11.20-19.14.37:532][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.033862s)
+[2016.11.20-19.14.37:568][754]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.14.37:576][754]LogInit: FAudioDevice initialized.
+[2016.11.20-19.14.37:690][754]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.14.37:712][754]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.14.37
+[2016.11.20-19.14.37:717][754]LogWorld: Bringing up level for play took: 0.023085
+[2016.11.20-19.14.37:798][754]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2016.11.20-19.14.37:799][754]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.14.37:799][754]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.14.37:799][754]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.14.37:807][754]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.14.37:815][754]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.8
+[2016.11.20-19.14.37:816][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.14.37:862][754]LogRenderer: Reallocating scene render targets to support 1932x1116 NumSamples 1 (Frame:68411).
+[2016.11.20-19.14.40:205][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.14.40:283][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.14.50:409][363]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.14.52:007][407]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.14.52:029][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.14.52:029][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.14.52:029][407]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:14:52 AM)
+[2016.11.20-19.14.52:030][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.14.52:061][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031538s)
+[2016.11.20-19.14.52:062][407]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.14.52:062][407]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2016.11.20-19.14.52:062][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.032784s)
+[2016.11.20-19.14.52:099][407]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.14.52:106][407]LogInit: FAudioDevice initialized.
+[2016.11.20-19.14.52:174][407]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.14.52:196][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.14.52
+[2016.11.20-19.14.52:201][407]LogWorld: Bringing up level for play took: 0.023857
+[2016.11.20-19.14.52:202][407]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.14.52:202][407]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.14.52:202][407]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.14.52:206][407]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.14.52:216][407]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.8
+[2016.11.20-19.14.52:217][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.14.55:872][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.14.55:956][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.16.40:228][525]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.16.42:068][605]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.16.42:091][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.16.42:091][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.16.42:091][605]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:16:42 AM)
+[2016.11.20-19.16.42:091][605]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.16.42:125][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033073s)
+[2016.11.20-19.16.42:125][605]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.16.42:125][605]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2016.11.20-19.16.42:126][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.034279s)
+[2016.11.20-19.16.42:166][605]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.16.42:173][605]LogInit: FAudioDevice initialized.
+[2016.11.20-19.16.42:239][605]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.16.42:260][605]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.16.42
+[2016.11.20-19.16.42:265][605]LogWorld: Bringing up level for play took: 0.023253
+[2016.11.20-19.16.42:266][605]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.16.42:266][605]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.16.42:266][605]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.16.42:269][605]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.16.42:276][605]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.739
+[2016.11.20-19.16.42:277][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.16.43:765][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.16.43:843][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.21.31:046][245]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.21.32:947][289]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.21.32:971][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.21.32:971][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.21.32:971][289]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:21:32 AM)
+[2016.11.20-19.21.32:971][289]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.21.33:006][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034485s)
+[2016.11.20-19.21.33:007][289]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.21.33:007][289]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2016.11.20-19.21.33:007][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.035754s)
+[2016.11.20-19.21.33:044][289]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.21.33:051][289]LogInit: FAudioDevice initialized.
+[2016.11.20-19.21.33:117][289]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.21.33:137][289]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.21.33
+[2016.11.20-19.21.33:141][289]LogWorld: Bringing up level for play took: 0.022264
+[2016.11.20-19.21.33:142][289]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.21.33:142][289]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.21.33:142][289]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.21.33:145][289]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.21.33:156][289]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.141
+[2016.11.20-19.21.33:157][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.21.37:025][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.21.37:108][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.21.56:330][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.20-19.22.14:664][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.20-19.22.15:568][467]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_I3)
+[2016.11.20-19.22.17:649][579]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_I2)
+[2016.11.20-19.22.24:881][980]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_B9)
+[2016.11.20-19.22.28:766][183]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2016.11.20-19.22.29:804][230]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_B8)
+[2016.11.20-19.22.30:605][269]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_A9)
+[2016.11.20-19.22.35:503][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.20-19.22.38:283][654]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_A1)
+[2016.11.20-19.22.43:346][921]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_I2)
+[2016.11.20-19.22.49:656][255]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_I3)
+[2016.11.20-19.22.58:572][746]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_I2)
+[2016.11.20-19.23.00:415][844]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_I3)
+[2016.11.20-19.23.02:031][930]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_I1)
+[2016.11.20-19.23.04:414][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_I2)
+[2016.11.20-19.23.20:873][804]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.23.22:341][841]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.23.22:365][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.22:365][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.23.22:365][841]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:23:22 AM)
+[2016.11.20-19.23.22:365][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.23.22:397][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032043s)
+[2016.11.20-19.23.22:398][841]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.23.22:398][841]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2016.11.20-19.23.22:398][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.033152s)
+[2016.11.20-19.23.22:435][841]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.23.22:442][841]LogInit: FAudioDevice initialized.
+[2016.11.20-19.23.22:509][841]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.23.22:529][841]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.23.22
+[2016.11.20-19.23.22:533][841]LogWorld: Bringing up level for play took: 0.022380
+[2016.11.20-19.23.22:534][841]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.23.22:534][841]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.23.22:534][841]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.23.22:535][841]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.23.22:546][841]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.47
+[2016.11.20-19.23.22:546][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.24:446][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.24:544][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.37:496][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.20-19.23.37:928][356]LogSavePackage: Save=388.31ms
+[2016.11.20-19.23.37:928][356]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevel89B7783146632733FF1939AAC2EA4F1A.tmp' to 'F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap'
+[2016.11.20-19.23.37:930][356]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap
+[2016.11.20-19.23.38:384][371]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.23.38:410][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.38:410][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.23.38:411][371]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:23:38 AM)
+[2016.11.20-19.23.38:411][371]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.23.38:444][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033690s)
+[2016.11.20-19.23.38:445][371]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.23.38:445][371]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2016.11.20-19.23.38:446][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.035027s)
+[2016.11.20-19.23.38:490][371]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.23.38:496][371]LogInit: FAudioDevice initialized.
+[2016.11.20-19.23.38:561][371]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.23.38:583][371]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.23.38
+[2016.11.20-19.23.38:587][371]LogWorld: Bringing up level for play took: 0.024012
+[2016.11.20-19.23.38:588][371]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.23.38:588][371]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.23.38:588][371]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.23.38:592][371]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.23.38:602][371]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.413
+[2016.11.20-19.23.38:603][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.40:265][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.40:345][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.57:767][347]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.23.59:480][418]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.23.59:502][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.23.59:502][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.23.59:502][418]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:23:59 AM)
+[2016.11.20-19.23.59:502][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.23.59:535][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032420s)
+[2016.11.20-19.23.59:535][418]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.23.59:536][418]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2016.11.20-19.23.59:536][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.033558s)
+[2016.11.20-19.23.59:573][418]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.23.59:580][418]LogInit: FAudioDevice initialized.
+[2016.11.20-19.23.59:644][418]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.23.59:664][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.23.59
+[2016.11.20-19.23.59:669][418]LogWorld: Bringing up level for play took: 0.023032
+[2016.11.20-19.23.59:669][418]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.23.59:669][418]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.23.59:669][418]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.23.59:672][418]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.23.59:679][418]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.664
+[2016.11.20-19.23.59:680][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.24.01:962][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.24.02:055][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.32.38:323][584]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.32.39:882][646]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.32.39:906][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.32.39:906][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.32.39:907][646]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:32:39 AM)
+[2016.11.20-19.32.39:907][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.32.39:939][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032267s)
+[2016.11.20-19.32.39:939][646]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.32.39:940][646]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2016.11.20-19.32.39:940][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.033601s)
+[2016.11.20-19.32.39:980][646]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.32.39:988][646]LogInit: FAudioDevice initialized.
+[2016.11.20-19.32.40:052][646]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.32.40:075][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.32.40
+[2016.11.20-19.32.40:079][646]LogWorld: Bringing up level for play took: 0.024012
+[2016.11.20-19.32.40:080][646]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.32.40:080][646]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.32.40:080][646]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.32.40:082][646]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.32.40:090][646]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 1.074
+[2016.11.20-19.32.40:090][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.32.46:083][975]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.32.46:132][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.32.53:031][355]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.32.54:332][405]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.32.54:358][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.32.54:358][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.32.54:359][405]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:32:54 AM)
+[2016.11.20-19.32.54:359][405]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.32.54:394][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035268s)
+[2016.11.20-19.32.54:395][405]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.32.54:395][405]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2016.11.20-19.32.54:395][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.036521s)
+[2016.11.20-19.32.54:436][405]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.32.54:443][405]LogInit: FAudioDevice initialized.
+[2016.11.20-19.32.54:513][405]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.32.54:534][405]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.32.54
+[2016.11.20-19.32.54:538][405]LogWorld: Bringing up level for play took: 0.022842
+[2016.11.20-19.32.54:539][405]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.32.54:539][405]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.32.54:539][405]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.32.54:541][405]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.32.54:549][405]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.466
+[2016.11.20-19.32.54:550][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.32.55:810][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.32.55:905][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.10:781][302]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.33.11:850][341]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.33.11:872][341]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.11:872][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.33.11:872][341]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:33:11 AM)
+[2016.11.20-19.33.11:872][341]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.33.11:904][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032450s)
+[2016.11.20-19.33.11:905][341]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.33.11:905][341]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2016.11.20-19.33.11:906][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.033578s)
+[2016.11.20-19.33.11:945][341]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.33.11:952][341]LogInit: FAudioDevice initialized.
+[2016.11.20-19.33.12:018][341]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.33.12:038][341]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.33.12
+[2016.11.20-19.33.12:043][341]LogWorld: Bringing up level for play took: 0.022728
+[2016.11.20-19.33.12:043][341]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.33.12:043][341]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.33.12:043][341]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.33.12:046][341]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.33.12:054][341]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 1.039
+[2016.11.20-19.33.12:055][341]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.13:616][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.13:709][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.19:488][734]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.33.20:791][783]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.33.20:815][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.20:815][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.33.20:816][783]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:33:20 AM)
+[2016.11.20-19.33.20:816][783]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.33.20:849][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032879s)
+[2016.11.20-19.33.20:849][783]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.33.20:850][783]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2016.11.20-19.33.20:850][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.034047s)
+[2016.11.20-19.33.20:888][783]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.33.20:895][783]LogInit: FAudioDevice initialized.
+[2016.11.20-19.33.20:957][783]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.33.20:979][783]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.33.20
+[2016.11.20-19.33.20:983][783]LogWorld: Bringing up level for play took: 0.023925
+[2016.11.20-19.33.20:984][783]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.33.20:984][783]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.33.20:984][783]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.33.20:986][783]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.33.20:994][783]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.022
+[2016.11.20-19.33.20:994][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.23:888][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.23:984][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.33.54:364][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2016.11.20-19.33.54:780][686]LogSavePackage: Save=397.94ms
+[2016.11.20-19.33.54:780][686]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevel_Auto2C3A9408F41DC628E95FA81B439A07CCC.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto2.umap'
+[2016.11.20-19.33.54:781][686]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto2.umap
+[2016.11.20-19.33.54:784][686]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/defaultLevel' took 0.445
+[2016.11.20-19.33.54:784][686]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.445
+[2016.11.20-19.33.54:786][686]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Imaluk_GameMode] ([1] browsable assets)...
+[2016.11.20-19.33.54:786][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Imaluk_GameMode]
+[2016.11.20-19.33.54:786][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-19.33.54:898][686]LogSavePackage: Save=64.82ms
+[2016.11.20-19.33.54:898][686]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameMode_Auto2B548E575414E5A1A57C7489708AFA9BC.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto2.uasset'
+[2016.11.20-19.33.54:899][686]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto2.uasset
+[2016.11.20-19.33.54:899][686]LogFileHelpers: Auto-saving content packages took 0.114
+[2016.11.20-19.35.05:220][684]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.35.06:221][705]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.35.06:246][705]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.35.06:246][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.35.06:246][705]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:35:06 AM)
+[2016.11.20-19.35.06:246][705]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.35.06:279][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032999s)
+[2016.11.20-19.35.06:280][705]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.35.06:280][705]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2016.11.20-19.35.06:280][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.034130s)
+[2016.11.20-19.35.06:319][705]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.35.06:326][705]LogInit: FAudioDevice initialized.
+[2016.11.20-19.35.06:391][705]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.35.06:412][705]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.35.06
+[2016.11.20-19.35.06:417][705]LogWorld: Bringing up level for play took: 0.023646
+[2016.11.20-19.35.06:418][705]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.35.06:418][705]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.35.06:418][705]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.35.06:420][705]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.35.06:430][705]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.585
+[2016.11.20-19.35.06:431][705]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.35.07:728][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.35.07:822][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.35.23:427][595]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.35.25:266][674]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.35.25:290][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.35.25:290][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.35.25:290][674]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:35:25 AM)
+[2016.11.20-19.35.25:290][674]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.35.25:323][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032714s)
+[2016.11.20-19.35.25:324][674]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.35.25:324][674]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2016.11.20-19.35.25:324][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.033841s)
+[2016.11.20-19.35.25:362][674]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.35.25:369][674]LogInit: FAudioDevice initialized.
+[2016.11.20-19.35.25:430][674]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.35.25:452][674]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.35.25
+[2016.11.20-19.35.25:457][674]LogWorld: Bringing up level for play took: 0.023832
+[2016.11.20-19.35.25:457][674]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.35.25:457][674]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.35.25:457][674]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.35.25:460][674]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.35.25:469][674]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.454
+[2016.11.20-19.35.25:470][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.35.27:502][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.35.27:597][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.36.04:273][624]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.36.25:341][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.20-19.36.26:093][531]LogEditorViewport: Clicking on Actor (LMB): BP_grid_piece_C (grid_A1)
+[2016.11.20-19.43.59:802][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2016.11.20-19.44.00:201][288]LogSavePackage: Save=381.22ms
+[2016.11.20-19.44.00:201][288]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevel_Auto3E81F5A934C1D48FF7B111D8A8FBD9D31.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto3.umap'
+[2016.11.20-19.44.00:202][288]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto3.umap
+[2016.11.20-19.44.00:207][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/defaultLevel' took 0.454
+[2016.11.20-19.44.00:207][288]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.454
+[2016.11.20-19.44.00:209][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Imaluk_GameMode] ([1] browsable assets)...
+[2016.11.20-19.44.00:209][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Imaluk_GameMode]
+[2016.11.20-19.44.00:209][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-19.44.00:306][288]LogSavePackage: Save=74.12ms
+[2016.11.20-19.44.00:306][288]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameMode_Auto3AE55D2E8403EE7FC4B1B42B3F6B59E7C.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto3.uasset'
+[2016.11.20-19.44.00:307][288]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/Imaluk_GameMode_Auto3.uasset
+[2016.11.20-19.44.00:307][288]LogFileHelpers: Auto-saving content packages took 0.099
+[2016.11.20-19.46.56:378][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.20-19.46.56:819][530]LogSavePackage: Save=392.25ms
+[2016.11.20-19.46.56:819][530]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevelEFB2657C4272CF432F07EAB9D9DBE79F.tmp' to 'F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap'
+[2016.11.20-19.46.56:824][530]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap
+[2016.11.20-19.48.15:847][893]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.48.18:154][972]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.48.18:177][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.48.18:177][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.48.18:177][972]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:48:18 AM)
+[2016.11.20-19.48.18:177][972]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.48.18:210][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032795s)
+[2016.11.20-19.48.18:211][972]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.48.18:211][972]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2016.11.20-19.48.18:211][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.034006s)
+[2016.11.20-19.48.18:249][972]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.48.18:256][972]LogInit: FAudioDevice initialized.
+[2016.11.20-19.48.18:326][972]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.48.18:350][972]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.48.18
+[2016.11.20-19.48.18:356][972]LogWorld: Bringing up level for play took: 0.027500
+[2016.11.20-19.48.18:357][972]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.48.18:357][972]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.48.18:357][972]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.48.18:362][972]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.48.18:371][972]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel -0.644
+[2016.11.20-19.48.18:372][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.48.22:536][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.48.22:617][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.51.55:176][646]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.51.56:059][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.20-19.51.56:149][664]LogSavePackage: Save=67.31ms
+[2016.11.20-19.51.56:149][664]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameMode0F47346F4536F3B373091697739BA8E7.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.20-19.51.56:151][664]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.20-19.51.57:034][702]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.51.57:056][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.51.57:056][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.51.57:056][702]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:51:57 AM)
+[2016.11.20-19.51.57:056][702]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.51.57:089][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033305s)
+[2016.11.20-19.51.57:090][702]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.51.57:090][702]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2016.11.20-19.51.57:090][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.034680s)
+[2016.11.20-19.51.57:128][702]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.51.57:136][702]LogInit: FAudioDevice initialized.
+[2016.11.20-19.51.57:203][702]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.51.57:224][702]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.51.57
+[2016.11.20-19.51.57:229][702]LogWorld: Bringing up level for play took: 0.023197
+[2016.11.20-19.51.57:229][702]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.51.57:229][702]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.51.57:229][702]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.51.57:241][702]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.51.57:250][702]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.235
+[2016.11.20-19.51.57:251][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.52.06:405][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.52.06:484][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.52.09:729][213]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.52.11:046][252]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.52.11:068][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.52.11:069][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.52.11:069][252]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:52:11 AM)
+[2016.11.20-19.52.11:069][252]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.52.11:103][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033824s)
+[2016.11.20-19.52.11:104][252]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.52.11:104][252]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2016.11.20-19.52.11:104][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.035039s)
+[2016.11.20-19.52.11:141][252]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.52.11:148][252]LogInit: FAudioDevice initialized.
+[2016.11.20-19.52.11:215][252]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.52.11:235][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.52.11
+[2016.11.20-19.52.11:239][252]LogWorld: Bringing up level for play took: 0.022272
+[2016.11.20-19.52.11:240][252]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.52.11:240][252]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.52.11:240][252]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.52.11:252][252]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.52.11:261][252]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.246
+[2016.11.20-19.52.11:262][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.52.13:078][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.52.13:159][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.55.20:747][824]BlueprintLog: New page: Compile BP_grid_piece
+[2016.11.20-19.55.21:451][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_grid_piece" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset" SILENT=true
+[2016.11.20-19.55.21:518][824]LogSavePackage: Save=48.79ms
+[2016.11.20-19.55.21:518][824]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_grid_pieceBA343D0D440E702A0721EEB6EA2D810B.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset'
+[2016.11.20-19.55.21:520][824]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset
+[2016.11.20-19.55.22:068][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_grid_piece" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset" SILENT=true
+[2016.11.20-19.55.22:111][849]LogSavePackage: Save=32.95ms
+[2016.11.20-19.55.22:111][849]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_grid_piece26D64E7447549B372D00009C6D025920.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset'
+[2016.11.20-19.55.22:112][849]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset
+[2016.11.20-19.55.41:795][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.20-19.55.41:864][ 17]LogSavePackage: Save=58.42ms
+[2016.11.20-19.55.41:864][ 17]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameModeA70321FF43819682E89FED9CA61AA041.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.20-19.55.41:865][ 17]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.20-19.57.22:867][437]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.57.52:379][752]BlueprintLog: New page: Compile Imaluk_GameMode
+[2016.11.20-19.57.53:393][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Imaluk_GameMode" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset" SILENT=true
+[2016.11.20-19.57.53:474][775]LogSavePackage: Save=62.01ms
+[2016.11.20-19.57.53:474][775]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/Imaluk_GameModeFB254C694BB1CD1EE18C419661C5EA80.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset'
+[2016.11.20-19.57.53:476][775]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/Imaluk_GameMode.uasset
+[2016.11.20-19.59.17:433][439]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-19.59.17:457][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.59.17:457][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-19.59.17:457][439]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 7:59:17 AM)
+[2016.11.20-19.59.17:457][439]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-19.59.17:489][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032044s)
+[2016.11.20-19.59.17:490][439]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-19.59.17:490][439]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2016.11.20-19.59.17:491][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.033311s)
+[2016.11.20-19.59.17:531][439]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-19.59.17:539][439]LogInit: FAudioDevice initialized.
+[2016.11.20-19.59.17:606][439]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-19.59.17:632][439]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-13.59.17
+[2016.11.20-19.59.17:636][439]LogWorld: Bringing up level for play took: 0.027225
+[2016.11.20-19.59.17:637][439]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.59.17:637][439]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-19.59.17:637][439]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.59.17:650][439]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-19.59.17:660][439]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.645
+[2016.11.20-19.59.17:661][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.59.25:293][812]LogBlueprintUserMessages: [Imaluk_GameMode_C_0] May not place here
+[2016.11.20-19.59.27:798][936]LogBlueprintUserMessages: [Imaluk_GameMode_C_0] May not place here
+[2016.11.20-19.59.33:136][197]LogBlueprintUserMessages: [Imaluk_GameMode_C_0] May not place here
+[2016.11.20-19.59.41:807][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-19.59.41:887][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-20.00.11:311][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2016.11.20-20.00.11:749][982]LogSavePackage: Save=422.77ms
+[2016.11.20-20.00.11:749][982]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevel_Auto4A491D68447A615769BBF4599A28CB2F0.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto4.umap'
+[2016.11.20-20.00.11:750][982]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto4.umap
+[2016.11.20-20.00.11:753][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/defaultLevel' took 0.470
+[2016.11.20-20.00.11:753][982]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.470
+[2016.11.20-20.00.56:796][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2016.11.20-20.01.17:152][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.20-20.01.17:591][157]LogSavePackage: Save=396.17ms
+[2016.11.20-20.01.17:591][157]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevelDEDEECB0451F8A28F626A5A923AEBB45.tmp' to 'F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap'
+[2016.11.20-20.01.17:593][157]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap
+[2016.11.20-20.01.17:630][157]LogFileHelpers: Saving map 'defaultLevel' took 0.553
+[2016.11.20-20.01.19:683][267]SourceControl: Info fatal: C:/Program Files/Epic Games/4.14/Engine/Content/: 'C:/Program Files/Epic Games/4.14/Engine/Content/' is outside repository
+[2016.11.20-20.01.19:865][267]LogPackageName:Error: Illegal call to DoesPackageExist: 'F:/Unreal Projects/Imaluk/Imaluk.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2016.11.20-20.01.19:888][267]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.022 s
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: === Handled ensure: ===
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: 
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 624]
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: Illegal call to DoesPackageExist: 'F:/Unreal Projects/Imaluk/Imaluk.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: Stack: 
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-Core.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-Core.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-Core.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor.exe
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor.exe
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor.exe
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor.exe
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: UE4Editor.exe
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: KERNEL32.DLL
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: ntdll.dll
+[2016.11.20-20.01.19:888][267]LogOutputDevice:Error: 
+[2016.11.20-20.01.19:896][267]LogStats:                SubmitErrorReport -  0.000 s
+[2016.11.20-20.01.20:615][267]LogStats:                    SendNewReport -  0.719 s
+[2016.11.20-20.01.20:615][267]LogStats:             FDebug::EnsureFailed -  0.749 s
+[2016.11.20-20.02.28:141][267]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.11.20-20.02.28:315][267]SourceControl: Info [master 5690ff6] Changed tile placement logic to require only grid location and orientation. Standard board now generates successfully at game launch.
+[2016.11.20-20.02.28:315][267]SourceControl: Info  5 files changed, 1 insertion(+), 1 deletion(-)
+[2016.11.20-20.02.28:315][267]SourceControl: Info  rewrite Content/Blueprints/BP_grid_piece.uasset (94%)
+[2016.11.20-20.02.28:315][267]SourceControl: Info  rewrite Content/Blueprints/Imaluk_GameMode.uasset (73%)
+[2016.11.20-20.02.28:315][267]SourceControl: Info  rewrite Content/Maps/defaultLevel.umap (86%)
+[2016.11.20-20.02.28:328][267]SourceControl: Info Commited [master 5690ff6] Changed tile placement logic to require only grid location and orientation. Standard board now generates successfully at game launch..
+[2016.11.20-20.09.08:167][191]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.11.20-20.09.08:203][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-20.09.08:203][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.20-20.09.08:203][191]PIE: New page: PIE session: defaultLevel (Nov 20, 2016, 8:09:08 AM)
+[2016.11.20-20.09.08:203][191]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_defaultLevel
+[2016.11.20-20.09.08:237][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033262s)
+[2016.11.20-20.09.08:238][191]LogAIModule: Creating AISystem for world defaultLevel
+[2016.11.20-20.09.08:238][191]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2016.11.20-20.09.08:238][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/defaultLevel.defaultLevel to /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel (0.034574s)
+[2016.11.20-20.09.08:283][191]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.20-20.09.08:290][191]LogInit: FAudioDevice initialized.
+[2016.11.20-20.09.08:360][191]LogLoad: Game class is 'Imaluk_GameMode_C'
+[2016.11.20-20.09.08:381][191]LogWorld: Bringing World /Game/Maps/UEDPIE_0_defaultLevel.defaultLevel up for play (max tick rate 0) at 2016.11.20-14.09.08
+[2016.11.20-20.09.08:386][191]LogWorld: Bringing up level for play took: 0.023133
+[2016.11.20-20.09.08:386][191]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-20.09.08:386][191]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.20-20.09.08:386][191]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-20.09.08:398][191]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.20-20.09.08:407][191]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_defaultLevel 0.392
+[2016.11.20-20.09.08:408][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-20.09.12:678][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-20.09.12:800][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel' with GeneratedClass '/Game/Maps/defaultLevel.defaultLevel_C' with ClassGeneratedBy '/Game/Maps/defaultLevel.defaultLevel:PersistentLevel.defaultLevel'
+[2016.11.20-20.10.50:025][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/defaultLevel' took 0.032
+[2016.11.20-20.10.50:027][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_2x1Piece] ([1] browsable assets)...
+[2016.11.20-20.10.50:027][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_2x1Piece]
+[2016.11.20-20.10.50:027][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_2x1Piece" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x1Piece_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-20.10.50:091][198]LogSavePackage: Save=45.40ms
+[2016.11.20-20.10.50:091][198]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_2x1Piece_Auto5A7CA3E114286FAF5D6B2B18B468057F9.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x1Piece_Auto5.uasset'
+[2016.11.20-20.10.50:092][198]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x1Piece_Auto5.uasset
+[2016.11.20-20.10.50:092][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ClickyBit] ([1] browsable assets)...
+[2016.11.20-20.10.50:092][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ClickyBit]
+[2016.11.20-20.10.50:092][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ClickyBit" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/ClickyBit_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-20.10.50:102][198]LogSavePackage: Save=8.23ms
+[2016.11.20-20.10.50:102][198]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/ClickyBit_Auto519F2D3A4434883EC52620A8891597680.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/ClickyBit_Auto5.uasset'
+[2016.11.20-20.10.50:102][198]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/ClickyBit_Auto5.uasset
+[2016.11.20-20.10.50:103][198]LogFileHelpers: Auto-saving content packages took 0.076
+[2016.11.20-20.11.44:557][484]LogVSAccessor:Warning: Couldn't open file 'C:/Program Files/Epic Games/4.14/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h'.
+[2016.11.20-20.11.44:558][484]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.11.20-20.11.44:564][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:564][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:565][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:565][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:565][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:565][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:565][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:565][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:565][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:565][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:566][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:567][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:567][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:567][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:567][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:567][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:567][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:567][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:567][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:568][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:568][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:568][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:568][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:568][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:568][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:568][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:568][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:569][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:570][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:570][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:570][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:570][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:570][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:570][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:578][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:582][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:608][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:608][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:627][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:644][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:646][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:652][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:723][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:723][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:729][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:729][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:729][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.11.44:730][484]LogVSAccessor:Warning: Couldn't access module table
+[2016.11.20-20.12.28:921][ 94]Cmd: TRANSACTION UNDO
+[2016.11.20-20.12.28:921][ 94]LogEditorTransaction: Undo Remove Components
+[2016.11.20-20.12.30:622][199]LogEditorTransaction: Undo Remove Components
+[2016.11.20-20.12.31:287][218]LogEditorTransaction: Undo Add Component
+[2016.11.20-20.12.35:771][452]Cmd: TRANSACTION UNDO
+[2016.11.20-20.12.35:771][452]LogEditorTransaction: Undo Add Component
+[2016.11.20-20.12.42:862][651]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.12.42:978][651]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.12.43:069][651]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.12.43:161][651]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.12.43:251][651]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.12.43:914][651]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'BlueprintComponentNodeSpawner_138' or package '/Engine/Transient'.
+[2016.11.20-20.12.43:914][651]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_ClickyBit_C_0' or package '/Engine/Transient'.
+[2016.11.20-20.12.43:914][651]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_ClickyBit_C_1' or package '/Engine/Transient'.
+[2016.11.20-20.12.43:914][651]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_ClickyBit_C_337' or package '/Engine/Transient'.
+[2016.11.20-20.12.43:914][651]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_ClickyBit_C_336' or package '/Engine/Transient'.
+[2016.11.20-20.13.03:828][851]BlueprintLog: New page: Compile BP_grid_piece
+[2016.11.20-20.13.06:432][963]BlueprintLog: New page: Compile BP_2x1Piece
+[2016.11.20-20.16.59:938][ 96]BlueprintLog: New page: Compile BP_BaseSprite
+[2016.11.20-20.17.31:631][274]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.31:631][274]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.31:631][274]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.31:631][274]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.33:787][340]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.33:787][340]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.33:787][340]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.33:787][340]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.38:077][474]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.38:077][474]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.38:077][474]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.38:077][474]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.38:589][489]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.38:589][489]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.38:589][489]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.38:589][489]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.39:974][531]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.39:974][531]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.39:974][531]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.39:974][531]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.55:053][ 61]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.55:053][ 61]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.55:053][ 61]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.17.55:053][ 61]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:TouchyBit_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.19:068][923]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.19:068][923]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.19:068][923]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.19:069][923]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.34:848][530]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.34:848][530]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.34:849][530]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.34:849][530]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.36:862][613]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.36:862][613]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.36:863][613]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.36:863][613]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.40:085][731]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.40:086][731]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.40:086][731]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.40:087][731]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.42:564][817]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x2Piece.BP_2x2Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.42:564][817]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x3Piece.BP_2x3Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.42:565][817]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_2x1Piece.BP_2x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.42:566][817]LogActorComponent: ReregisterComponent: (/Game/Blueprints/BP_3x1Piece.BP_3x1Piece_C:Generator_GEN_VARIABLE) Not currently registered. Aborting.
+[2016.11.20-20.18.48:576][ 47]BlueprintLog: New page: Compile BP_BaseSprite
+[2016.11.20-20.19.13:469][980]BlueprintLog: New page: Compile BP_BaseSprite
+[2016.11.20-20.19.22:921][286]BlueprintLog: New page: Compile BP_BaseSprite
+[2016.11.20-20.19.24:205][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSprite" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset" SILENT=true
+[2016.11.20-20.19.24:250][301]LogSavePackage: Save=27.45ms
+[2016.11.20-20.19.24:250][301]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_BaseSpriteD7E1475F46262006DF481AA17AD2B9CE.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset'
+[2016.11.20-20.19.24:266][301]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset
+[2016.11.20-20.20.14:681][378]BlueprintLog: New page: Compile BP_BaseSprite
+[2016.11.20-20.20.16:350][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSprite" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset" SILENT=true
+[2016.11.20-20.20.16:388][409]LogSavePackage: Save=28.53ms
+[2016.11.20-20.20.16:388][409]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_BaseSprite950260DD40FFC0098F3B7A925DC45247.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset'
+[2016.11.20-20.20.16:390][409]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset
+[2016.11.20-20.20.51:132][776]BlueprintLog: New page: Compile BP_3x1Piece
+[2016.11.20-20.21.39:767][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2016.11.20-20.21.40:176][872]LogSavePackage: Save=392.96ms
+[2016.11.20-20.21.40:176][872]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevel_Auto6C1834F06470DCDDF7638B6913D31DF61.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto6.umap'
+[2016.11.20-20.21.40:177][872]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Maps/defaultLevel_Auto6.umap
+[2016.11.20-20.21.40:181][872]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/defaultLevel' took 0.449
+[2016.11.20-20.21.40:181][872]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.449
+[2016.11.20-20.21.40:184][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_BaseSprite] ([1] browsable assets)...
+[2016.11.20-20.21.40:184][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BaseSprite]
+[2016.11.20-20.21.40:184][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSprite" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_BaseSprite_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-20.21.40:236][872]LogSavePackage: Save=20.73ms
+[2016.11.20-20.21.40:236][872]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_BaseSprite_Auto6C3EFEA1C490F5DDA641A2ABE1322746A.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_BaseSprite_Auto6.uasset'
+[2016.11.20-20.21.40:237][872]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_BaseSprite_Auto6.uasset
+[2016.11.20-20.21.40:238][872]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_grid_piece] ([1] browsable assets)...
+[2016.11.20-20.21.40:278][872]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_grid_piece.BP_grid_piece]
+[2016.11.20-20.21.40:279][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_grid_piece]
+[2016.11.20-20.21.40:279][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_grid_piece" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_grid_piece_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-20.21.40:335][872]LogSavePackage: Save=38.41ms
+[2016.11.20-20.21.40:335][872]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_grid_piece_Auto64CC60A3C486F14AE5A47CB8EDBFD316D.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_grid_piece_Auto6.uasset'
+[2016.11.20-20.21.40:335][872]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_grid_piece_Auto6.uasset
+[2016.11.20-20.21.40:336][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_2x1Piece] ([1] browsable assets)...
+[2016.11.20-20.21.40:336][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_2x1Piece]
+[2016.11.20-20.21.40:336][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_2x1Piece" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x1Piece_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-20.21.40:381][872]LogSavePackage: Save=29.25ms
+[2016.11.20-20.21.40:381][872]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_2x1Piece_Auto684222BED46B3D828A48B369709F57A74.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x1Piece_Auto6.uasset'
+[2016.11.20-20.21.40:382][872]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x1Piece_Auto6.uasset
+[2016.11.20-20.21.40:382][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_2x2Piece] ([1] browsable assets)...
+[2016.11.20-20.21.40:383][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_2x2Piece]
+[2016.11.20-20.21.40:383][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_2x2Piece" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x2Piece_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-20.21.40:428][872]LogSavePackage: Save=23.19ms
+[2016.11.20-20.21.40:428][872]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_2x2Piece_Auto69155B8F94D0A91EF0B9BF4BA2D688E52.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x2Piece_Auto6.uasset'
+[2016.11.20-20.21.40:429][872]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x2Piece_Auto6.uasset
+[2016.11.20-20.21.40:429][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_2x3Piece] ([1] browsable assets)...
+[2016.11.20-20.21.40:429][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_2x3Piece]
+[2016.11.20-20.21.40:429][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_2x3Piece" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x3Piece_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-20.21.40:464][872]LogSavePackage: Save=19.79ms
+[2016.11.20-20.21.40:464][872]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_2x3Piece_Auto65535FAEA49FC79CFBFD81E8FE809846C.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x3Piece_Auto6.uasset'
+[2016.11.20-20.21.40:465][872]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_2x3Piece_Auto6.uasset
+[2016.11.20-20.21.40:465][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_3x1Piece] ([1] browsable assets)...
+[2016.11.20-20.21.40:465][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_3x1Piece]
+[2016.11.20-20.21.40:465][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_3x1Piece" FILE="F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_3x1Piece_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.11.20-20.21.40:503][872]LogSavePackage: Save=23.24ms
+[2016.11.20-20.21.40:503][872]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_3x1Piece_Auto6047EE5174788DB5B2B8BF7B1643836CC.tmp' to 'F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_3x1Piece_Auto6.uasset'
+[2016.11.20-20.21.40:504][872]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Saved/Autosaves/Game/Blueprints/BP_3x1Piece_Auto6.uasset
+[2016.11.20-20.21.40:504][872]LogFileHelpers: Auto-saving content packages took 0.320
+[2016.11.20-20.32.06:891][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/defaultLevel" FILE="F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.20-20.32.07:343][ 30]LogSavePackage: Save=408.64ms
+[2016.11.20-20.32.07:343][ 30]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/defaultLevelEEC0729440E0BF42BE7948BA3CC21044.tmp' to 'F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap'
+[2016.11.20-20.32.07:352][ 30]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Maps/defaultLevel.umap
+[2016.11.20-20.32.07:387][ 30]LogFileHelpers: Saving map 'defaultLevel' took 0.580
+[2016.11.20-20.32.07:397][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSprite" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset" SILENT=true
+[2016.11.20-20.32.07:458][ 30]LogSavePackage: Save=44.83ms
+[2016.11.20-20.32.07:458][ 30]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_BaseSprite53F50EFC4F831347F60BF08CD41E46E5.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset'
+[2016.11.20-20.32.07:467][ 30]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_BaseSprite.uasset
+[2016.11.20-20.32.07:471][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_grid_piece" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset" SILENT=true
+[2016.11.20-20.32.07:510][ 30]LogSavePackage: Save=25.32ms
+[2016.11.20-20.32.07:510][ 30]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_grid_pieceFEF347604BBEACE41BECDF8C81C9561F.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset'
+[2016.11.20-20.32.07:519][ 30]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_grid_piece.uasset
+[2016.11.20-20.32.07:523][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_2x1Piece" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x1Piece.uasset" SILENT=true
+[2016.11.20-20.32.07:562][ 30]LogSavePackage: Save=23.98ms
+[2016.11.20-20.32.07:563][ 30]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_2x1Piece84576F4C4C388D2DFF32D7AEB230F9E3.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x1Piece.uasset'
+[2016.11.20-20.32.07:571][ 30]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x1Piece.uasset
+[2016.11.20-20.32.07:574][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_2x2Piece" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x2Piece.uasset" SILENT=true
+[2016.11.20-20.32.07:613][ 30]LogSavePackage: Save=23.15ms
+[2016.11.20-20.32.07:613][ 30]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_2x2PieceF9ABE7BF4F6BB724E9F628A1689A6F08.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x2Piece.uasset'
+[2016.11.20-20.32.07:619][ 30]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x2Piece.uasset
+[2016.11.20-20.32.07:622][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_2x3Piece" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x3Piece.uasset" SILENT=true
+[2016.11.20-20.32.07:664][ 30]LogSavePackage: Save=21.84ms
+[2016.11.20-20.32.07:664][ 30]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_2x3Piece3A8E460E408ECE47288408934F0556D9.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x3Piece.uasset'
+[2016.11.20-20.32.07:670][ 30]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_2x3Piece.uasset
+[2016.11.20-20.32.07:674][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_3x1Piece" FILE="F:/Unreal Projects/Imaluk/Content/Blueprints/BP_3x1Piece.uasset" SILENT=true
+[2016.11.20-20.32.07:712][ 30]LogSavePackage: Save=21.69ms
+[2016.11.20-20.32.07:712][ 30]LogSavePackage: Moving 'F:/Unreal Projects/Imaluk/Saved/BP_3x1PieceBBC0391240AE9EEF67832285A9502AB7.tmp' to 'F:/Unreal Projects/Imaluk/Content/Blueprints/BP_3x1Piece.uasset'
+[2016.11.20-20.32.07:717][ 30]LogSavePackage:Display: Finished SavePackage F:/Unreal Projects/Imaluk/Content/Blueprints/BP_3x1Piece.uasset
+[2016.11.20-20.32.10:525][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.32.10:594][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.32.10:661][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.32.10:732][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.32.10:802][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.20-20.32.10:868][155]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.20-20.32.10:875][155]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.20-20.32.11:141][156]Cmd: QUIT_EDITOR
+[2016.11.20-20.32.11:933][156]LogExit: Preparing to exit.
+[2016.11.20-20.32.12:280][156]LogExit: Editor shut down
+[2016.11.20-20.32.12:281][156]LogExit: Transaction tracking system shut down
+[2016.11.20-20.32.12:543][156]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.20-20.32.12:544][156]LogExit: Object subsystem successfully closed.
+[2016.11.20-20.32.12:572][156]LogD3D11RHI: Shutdown
+[2016.11.20-20.32.12:572][156]LogD3D11RHI: CleanupD3DDevice
+[2016.11.20-20.32.12:716][156]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.20-20.32.12:752][156]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.20-20.32.12:752][156]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2AF2954-4499-2421-9969-E1A267612914%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.0-3195953%2B%2B%2BUE4%2BRelease-4.14&UserID=74aba5214736824e151f03bbaf437207%7C53d220672b82480284a9feb9b473a650%7C417e5788-2c17-4d1c-9ecf-d5e1b3ef5471&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.20-20.32.12:773][156]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (239)
+[2016.11.20-20.32.12:774][156]LogModuleManager: Shutting down and abandoning module BlueprintGraph (238)
+[2016.11.20-20.32.12:774][156]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (237)
+[2016.11.20-20.32.12:775][156]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (236)
+[2016.11.20-20.32.12:775][156]LogModuleManager: Shutting down and abandoning module CrashTracker (235)
+[2016.11.20-20.32.12:775][156]LogModuleManager: Shutting down and abandoning module SceneOutliner (234)
+[2016.11.20-20.32.12:775][156]LogModuleManager: Shutting down and abandoning module WidgetCarousel (233)
+[2016.11.20-20.32.12:775][156]LogModuleManager: Shutting down and abandoning module AddContentDialog (232)
+[2016.11.20-20.32.12:776][156]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.14/FeaturePacks/' was aborted.
+[2016.11.20-20.32.12:785][156]LogModuleManager: Shutting down and abandoning module GameplayTags (231)
+[2016.11.20-20.32.12:785][156]LogModuleManager: Shutting down and abandoning module EditorWidgets (230)
+[2016.11.20-20.32.12:785][156]LogModuleManager: Shutting down and abandoning module CollectionManager (229)
+[2016.11.20-20.32.12:785][156]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projects/Imaluk/Content/Collections/' was aborted.
+[2016.11.20-20.32.12:785][156]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projects/Imaluk/Content/Developers/User/Collections/' was aborted.
+[2016.11.20-20.32.12:785][156]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projects/Imaluk/Saved/Collections/' was aborted.
+[2016.11.20-20.32.12:786][156]LogModuleManager: Shutting down and abandoning module StatsViewer (228)
+[2016.11.20-20.32.12:786][156]LogModuleManager: Shutting down and abandoning module FoliageEdit (227)
+[2016.11.20-20.32.12:786][156]LogModuleManager: Shutting down and abandoning module LandscapeEditor (226)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (225)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module ActorPickerMode (224)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module GeometryMode (223)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module TextureAlignMode (222)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module BspMode (221)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module HardwareSurvey (220)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (219)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module AutomationWorker (218)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (217)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module PlacementMode (216)
+[2016.11.20-20.32.12:787][156]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (215)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (214)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (213)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (212)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (211)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module Media (210)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (209)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (208)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module CharacterAI (207)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module SequenceRecorder (206)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module AudioCapture (205)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module SmartSnapping (204)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module SessionServices (203)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module ViewportSnapping (202)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module ViewportInteraction (201)
+[2016.11.20-20.32.12:788][156]LogModuleManager: Shutting down and abandoning module LogVisualizer (200)
+[2016.11.20-20.32.12:789][156]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (199)
+[2016.11.20-20.32.12:789][156]LogModuleManager: Shutting down and abandoning module IntroTutorials (198)
+[2016.11.20-20.32.12:789][156]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (197)
+[2016.11.20-20.32.12:789][156]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (196)
+[2016.11.20-20.32.12:789][156]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (195)
+[2016.11.20-20.32.12:789][156]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (194)
+[2016.11.20-20.32.13:124][156]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (193)
+[2016.11.20-20.32.13:124][156]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (192)
+[2016.11.20-20.32.13:124][156]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (191)
+[2016.11.20-20.32.13:124][156]LogModuleManager: Shutting down and abandoning module InputBindingEditor (190)
+[2016.11.20-20.32.13:124][156]LogModuleManager: Shutting down and abandoning module NiagaraEditor (189)
+[2016.11.20-20.32.13:125][156]LogModuleManager: Shutting down and abandoning module MergeActors (188)
+[2016.11.20-20.32.13:126][156]LogModuleManager: Shutting down and abandoning module SizeMap (187)
+[2016.11.20-20.32.13:126][156]LogModuleManager: Shutting down and abandoning module TreeMap (186)
+[2016.11.20-20.32.13:126][156]LogModuleManager: Shutting down and abandoning module ReferenceViewer (185)
+[2016.11.20-20.32.13:126][156]LogModuleManager: Shutting down and abandoning module LocalizationService (184)
+[2016.11.20-20.32.13:126][156]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (183)
+[2016.11.20-20.32.13:126][156]LogModuleManager: Shutting down and abandoning module HardwareTargeting (182)
+[2016.11.20-20.32.13:126][156]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (181)
+[2016.11.20-20.32.13:127][156]LogModuleManager: Shutting down and abandoning module UndoHistory (180)
+[2016.11.20-20.32.13:127][156]LogModuleManager: Shutting down and abandoning module UserFeedback (179)
+[2016.11.20-20.32.13:127][156]LogModuleManager: Shutting down and abandoning module XmlParser (178)
+[2016.11.20-20.32.13:127][156]LogModuleManager: Shutting down and abandoning module Blutility (177)
+[2016.11.20-20.32.13:127][156]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (176)
+[2016.11.20-20.32.13:128][156]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (175)
+[2016.11.20-20.32.13:128][156]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (174)
+[2016.11.20-20.32.13:128][156]LogModuleManager: Shutting down and abandoning module SettingsEditor (173)
+[2016.11.20-20.32.13:129][156]LogModuleManager: Shutting down and abandoning module ProjectLauncher (172)
+[2016.11.20-20.32.13:129][156]LogModuleManager: Shutting down and abandoning module SessionFrontend (171)
+[2016.11.20-20.32.13:130][156]LogModuleManager: Shutting down and abandoning module ProfilerClient (170)
+[2016.11.20-20.32.13:131][156]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (169)
+[2016.11.20-20.32.13:131][156]LogModuleManager: Shutting down and abandoning module DeviceManager (168)
+[2016.11.20-20.32.13:174][156]LogModuleManager: Shutting down and abandoning module AutomationController (167)
+[2016.11.20-20.32.13:174][156]LogModuleManager: Shutting down and abandoning module AutomationWindow (166)
+[2016.11.20-20.32.13:175][156]LogModuleManager: Shutting down and abandoning module Layers (165)
+[2016.11.20-20.32.13:177][156]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (164)
+[2016.11.20-20.32.13:177][156]LogModuleManager: Shutting down and abandoning module DetailCustomizations (163)
+[2016.11.20-20.32.13:177][156]LogModuleManager: Shutting down and abandoning module PackagesDialog (162)
+[2016.11.20-20.32.13:177][156]LogModuleManager: Shutting down and abandoning module AnimGraph (161)
+[2016.11.20-20.32.13:177][156]LogModuleManager: Shutting down and abandoning module Persona (160)
+[2016.11.20-20.32.13:178][156]LogModuleManager: Shutting down and abandoning module Kismet (159)
+[2016.11.20-20.32.13:189][156]LogModuleManager: Shutting down and abandoning module GraphEditor (158)
+[2016.11.20-20.32.13:189][156]LogModuleManager: Shutting down and abandoning module ClassViewer (157)
+[2016.11.20-20.32.13:190][156]LogModuleManager: Shutting down and abandoning module Toolbox (156)
+[2016.11.20-20.32.13:190][156]LogModuleManager: Shutting down and abandoning module ModuleUI (155)
+[2016.11.20-20.32.13:191][156]LogModuleManager: Shutting down and abandoning module MovieSceneTools (154)
+[2016.11.20-20.32.13:192][156]LogModuleManager: Shutting down and abandoning module OutputLog (153)
+[2016.11.20-20.32.13:193][156]LogModuleManager: Shutting down and abandoning module GammaUI (152)
+[2016.11.20-20.32.13:193][156]LogModuleManager: Shutting down and abandoning module Documentation (151)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module Niagara (150)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (149)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module AnalyticsET (148)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module PortalServices (147)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module PortalRpc (146)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module MessagingRpc (145)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module GameplayDebugger (144)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module AITestSuite (143)
+[2016.11.20-20.32.13:194][156]LogModuleManager: Shutting down and abandoning module AIModule (142)
+[2016.11.20-20.32.13:195][156]LogModuleManager: Shutting down and abandoning module ProfilerService (141)
+[2016.11.20-20.32.13:267][156]LogModuleManager: Shutting down and abandoning module TaskGraph (140)
+[2016.11.20-20.32.13:267][156]LogModuleManager: Shutting down and abandoning module SlateRemote (139)
+[2016.11.20-20.32.13:267][156]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (138)
+[2016.11.20-20.32.13:267][156]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (137)
+[2016.11.20-20.32.13:267][156]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (136)
+[2016.11.20-20.32.13:267][156]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (135)
+[2016.11.20-20.32.13:267][156]LogModuleManager: Shutting down and abandoning module CableComponent (134)
+[2016.11.20-20.32.13:268][156]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (133)
+[2016.11.20-20.32.13:268][156]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (131)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module HTML5Networking (130)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (129)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module GeometryCache (128)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module AlembicLibrary (127)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module AlembicImporter (126)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module SuperSearch (125)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (124)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (123)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module PluginBrowser (122)
+[2016.11.20-20.32.13:269][156]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (121)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module EpicSurvey (120)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module DesktopPlatform (119)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (118)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module UObjectPlugin (117)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (116)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (115)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module SourceControl (114)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module GitSourceControl (113)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (112)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (111)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (110)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module MeshPaint (109)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (108)
+[2016.11.20-20.32.13:270][156]LogModuleManager: Shutting down and abandoning module HotReload (107)
+[2016.11.20-20.32.13:271][156]LogModuleManager: Shutting down and abandoning module MainFrame (106)
+[2016.11.20-20.32.13:271][156]LogModuleManager: Shutting down and abandoning module LevelEditor (105)
+[2016.11.20-20.32.13:273][156]LogModuleManager: Shutting down and abandoning module ContentBrowser (104)
+[2016.11.20-20.32.13:275][156]LogModuleManager: Shutting down and abandoning module Paper2DEditor (103)
+[2016.11.20-20.32.13:275][156]LogModuleManager: Shutting down and abandoning module UdpMessaging (102)
+[2016.11.20-20.32.13:377][156]LogModuleManager: Shutting down and abandoning module TcpMessaging (101)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (100)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module Paper2D (99)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (98)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module WmfMedia (97)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module MediaAssets (96)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (95)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (94)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module VREditor (93)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (92)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (91)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module FunctionalTesting (90)
+[2016.11.20-20.32.13:478][156]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (89)
+[2016.11.20-20.32.13:479][156]LogModuleManager: Shutting down and abandoning module Sequencer (88)
+[2016.11.20-20.32.13:479][156]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (87)
+[2016.11.20-20.32.13:479][156]LogModuleManager: Shutting down and abandoning module MessageLog (86)
+[2016.11.20-20.32.13:479][156]LogModuleManager: Shutting down and abandoning module AssetTools (85)
+[2016.11.20-20.32.13:481][156]LogModuleManager: Shutting down and abandoning module UMGEditor (84)
+[2016.11.20-20.32.13:481][156]LogModuleManager: Shutting down and abandoning module UMG (83)
+[2016.11.20-20.32.13:481][156]LogModuleManager: Shutting down and abandoning module SlateReflector (82)
+[2016.11.20-20.32.13:482][156]LogModuleManager: Shutting down and abandoning module Slate (81)
+[2016.11.20-20.32.13:482][156]LogModuleManager: Shutting down and abandoning module EditorStyle (80)
+[2016.11.20-20.32.13:486][156]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (79)
+[2016.11.20-20.32.13:486][156]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (78)
+[2016.11.20-20.32.13:486][156]LogModuleManager: Shutting down and abandoning module XAudio2 (77)
+[2016.11.20-20.32.13:486][156]LogModuleManager: Shutting down and abandoning module Networking (75)
+[2016.11.20-20.32.13:486][156]LogModuleManager: Shutting down and abandoning module Core (74)
+[2016.11.20-20.32.13:486][156]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (73)
+[2016.11.20-20.32.13:486][156]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.20-20.32.13:487][156]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projects/Imaluk/Content/' was aborted.
+[2016.11.20-20.32.13:489][156]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.20-20.32.13:494][156]LogModuleManager: Shutting down and abandoning module AssetRegistry (72)
+[2016.11.20-20.32.13:576][156]LogModuleManager: Shutting down and abandoning module KismetCompiler (71)
+[2016.11.20-20.32.13:576][156]LogModuleManager: Shutting down and abandoning module PhysXFormats (70)
+[2016.11.20-20.32.13:576][156]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (69)
+[2016.11.20-20.32.13:576][156]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (68)
+[2016.11.20-20.32.13:576][156]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (67)
+[2016.11.20-20.32.13:576][156]LogModuleManager: Shutting down and abandoning module PropertyEditor (66)
+[2016.11.20-20.32.13:576][156]LogModuleManager: Shutting down and abandoning module MeshUtilities (65)
+[2016.11.20-20.32.13:576][156]LogModuleManager: Shutting down and abandoning module DerivedDataCache (64)
+[2016.11.20-20.32.13:604][156]LogDerivedDataCache: Shutdown
+[2016.11.20-20.32.13:604][156]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (63)
+[2016.11.20-20.32.13:604][156]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (62)
+[2016.11.20-20.32.13:604][156]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (61)
+[2016.11.20-20.32.13:604][156]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (60)
+[2016.11.20-20.32.13:606][156]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (59)
+[2016.11.20-20.32.13:606][156]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (58)
+[2016.11.20-20.32.13:606][156]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (57)
+[2016.11.20-20.32.13:606][156]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (56)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module ImageWrapper (55)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (54)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (53)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (52)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (51)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (50)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (49)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (48)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (47)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (46)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (45)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module Messaging (44)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (43)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (42)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (41)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (40)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (39)
+[2016.11.20-20.32.13:607][156]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (38)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (37)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (36)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (35)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (34)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (33)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (32)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (31)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (30)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (29)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (28)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (27)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (26)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (25)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module TargetPlatform (24)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module InputCore (23)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module Settings (22)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.11.20-20.32.13:608][156]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.11.20-20.32.13:608][156]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.20-20.32.13:609][156]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2016.11.20-20.32.13:612][156]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.20-20.32.13:612][156]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.20-20.32.13:613][156]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.20-20.32.13:613][156]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.20-20.32.13:613][156]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.20-20.32.13:613][156]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.20-20.32.13:630][156]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.20-20.32.13:631][156]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.20-20.32.13:631][156]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.20-20.32.13:631][156]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.20-20.32.13:631][156]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.20-20.32.13:631][156]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.20-20.32.13:631][156]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.20-20.32.13:632][156]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.20-20.32.13:632][156]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.20-20.32.13:632][156]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.20-20.32.13:635][156]LogExit: Exiting.
+[2016.11.20-20.32.13:644][156]Log file closed, 11/20/16 14:32:13
